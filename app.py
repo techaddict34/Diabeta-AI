@@ -37,6 +37,7 @@ class RiskInput(BaseModel):
     bmi: float
     family_history: str
     symptoms_count: int
+    language: str = "en"
 
 @app.get("/")
 def read_root():

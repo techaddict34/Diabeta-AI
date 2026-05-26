@@ -57,7 +57,7 @@ const uiTranslations = {
 async function checkStatus() {
     const statusDiv = document.getElementById("status");
     try {
-        const res = await fetch("http://127.0.0.1:8000/");
+        const res = await fetch("/"); // 🌟 Updated to relative path
         if (res.ok) {
             statusDiv.innerText = "Server Status: Online";
             statusDiv.className = "online";
@@ -117,7 +117,7 @@ async function askBackend() {
     resultArea.style.display = "none";
 
     try {
-        const response = await fetch("http://127.0.0.1:8000/chat", {
+        const response = await fetch("/chat", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ 
@@ -166,59 +166,58 @@ async function askBackend() {
     }
 }
 
-// Risk Calculator Client-Side Logic
-function calculateRisk() {
+// Risk Calculator Server-Side Logic 🌟
+async function calculateRisk() {
     const age = parseInt(document.getElementById("age").value);
     const bmi = parseFloat(document.getElementById("bmi").value);
     const family = document.getElementById("family").value;
     const symptoms = parseInt(document.getElementById("symptoms").value);
 
+    // Initial client-side validation check
     if (isNaN(age) || isNaN(bmi) || isNaN(symptoms)) {
         return alert(currentLang === "id" ? "Silakan isi semua bidang data!" : "Please fill in all fields!");
     }
 
-    let points = 0;
+    const btnRisk = document.getElementById("btnRisk");
+    btnRisk.disabled = true;
 
-    // Age Evaluation
-    if (age >= 45) points += 2;
-    else if (age >= 35) points += 1;
+    try {
+        // 🚀 Hits your FastAPI endpoint using a relative production path
+        const response = await fetch("/screen", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ 
+                age: age, 
+                bmi: bmi, 
+                family_history: family, 
+                symptoms_count: symptoms,
+                language: currentLang // Pass the active language toggle down
+            })
+        });
+        
+        const data = await response.json();
+        
+        // Dynamically color-code the risk level text based on the string value returned by your Python script
+        let risk = data.risk;
+        let color = "#10b981"; // Default green (Low)
 
-    // BMI Evaluation (Asian population target cut-offs)
-    if (bmi >= 25) points += 2;
-    else if (bmi >= 23) points += 1;
+        if (risk.includes("High") || risk.includes("Tinggi")) {
+            color = "#ef4444"; // Red
+        } else if (risk.includes("Moderate") || risk.includes("Sedang")) {
+            color = "#f59e0b"; // Orange
+        }
 
-    // Family Profile Evaluation
-    if (family === "yes") points += 2;
-
-    // Symptom Profile Evaluation
-    if (symptoms >= 2) points += 2;
-    else if (symptoms === 1) points += 1;
-
-    // Risk Classification Mapping Matrix
-    let risk = "";
-    let color = "";
-
-    if (points >= 5) {
-        risk = currentLang === "id" ? "Tinggi 🚨 (Silakan berkonsultasi dengan dokter)" : "High 🚨 (Please consult a doctor)";
-        color = "#ef4444";
-    } else if (points >= 3) {
-        risk = currentLang === "id" ? "Sedang ⚠️ (Disarankan menjaga pola makan)" : "Moderate ⚠️ (Watch your lifestyle)";
-        color = "#f59e0b";
-    } else {
-        risk = currentLang === "id" ? "Rendah ✅ (Pertahankan pola hidup sehat)" : "Low ✅ (Keep staying active)";
-        color = "#10b981";
+        const resDiv = document.getElementById("riskResult");
+        const valSpan = document.getElementById("riskValue");
+        
+        valSpan.innerText = risk;
+        valSpan.style.color = color;
+        resDiv.style.display = "block";
+        
+    } catch (error) {
+        alert(currentLang === "id" ? "Gagal menghitung risiko dari server." : "Failed to calculate risk from server.");
+        console.error("Risk calc error:", error);
+    } finally {
+        btnRisk.disabled = false;
     }
-
-    const resDiv = document.getElementById("riskResult");
-    const valSpan = document.getElementById("riskValue");
-
-    valSpan.innerText = risk;
-    valSpan.style.color = color;
-    resDiv.style.display = "block";
 }
-
-// Run Initial Validation Hooks on Application Start
-window.onload = function() {
-    checkStatus();        
-    switchUILanguage();   
-};
