@@ -1,0 +1,15 @@
+(FKTP) dirujuk ke fasilitas kesehatan tingkat lanjut (FKTL), baik PPK II (pemberi 
+pelayanan kesehatan adalah seorang dokter spesialis penyakit dalam) ataupun 
+Pasien 
+FKTP 
+PPK-I 
+Dokter umum 
+FKRTL 
+PPK-3 
+Dokter Spesialis Penyakit 
+Dalam 
+Konsultan 
+FKRTL 
+PPK-2 
+Dokter Spesialis 
+Penyakit Dalam

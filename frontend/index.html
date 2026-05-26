@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diabetes AI Demo</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="header" style="display: flex; justify-content: space-between; align-items: center; padding: 20px 30px;">
+        <div style="display: flex; align-items: center; gap: 15px;">
+            <h1 id="mainHeader" style="margin: 0; line-height: 1;">🏥 Diabetes AI Assistant</h1>
+            <div id="status" style="margin: 0; padding: 4px 10px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; white-space: nowrap;">Server Status: Checking...</div>
+        </div>
+
+        <div style="background: rgba(255,255,255,0.75); padding: 6px 14px; border-radius: 8px; display: flex; align-items: center; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
+            <label id="lblLanguage" for="langToggle" style="font-weight: 600; margin-right: 8px; color: #1e293b; font-size: 0.9rem;">🌐 Language:</label>
+            <select id="langToggle" onchange="switchUILanguage()" style="padding: 6px 12px; border-radius: 6px; border: 1px solid #cbd5e1; background-color: white; color: #1e293b; cursor: pointer; font-family: 'Poppins', sans-serif; font-size: 0.85rem; font-weight: 600;">
+                <option value="en" selected>English</option>
+                <option value="id">Bahasa Indonesia</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="container" style="text-align: center; margin-top: 25px;">
+        <h3 id="gptHeader">🚀 Try Diabeta AI (Advanced)</h3>
+        <p id="gptSub">Access our specialized Custom GPT directly on the ChatGPT platform for advanced analysis.</p>
+        <a href="https://chatgpt.com/g/g-692e9d4fdc94819191cbf85d001038fd-diabeta-ai" target="_blank">
+            <button class="btn-gpt">Open Diabeta AI ↗</button>
+        </a>
+    </div>
+
+    <div class="container">
+        <h2 id="ragHeader">💬 Ask the Guidelines</h2>
+        <p id="ragSub" style="margin-bottom: 15px;">Get answers from diabetes management guidelines using our AI-powered system.</p>
+        <input type="text" id="question" placeholder="e.g., What is the BMI cutoff for Asian populations?" />
+        <button id="askBtn" onclick="askBackend()">Ask Our RAG</button>
+
+        <div id="chatResult" style="display: none;">
+            <div class="box">
+                <strong id="answerLabel">Answer:</strong>
+                <p id="answerText"></p>
+            </div>
+            <div id="citationsArea"></div>
+        </div>
+    </div>
+
+    <div class="container">
+        <h2 id="riskHeader">⚠️ Risk Screening Calculator</h2>
+        <p id="riskSub" style="margin-bottom: 15px;">Calculate your diabetes risk based on key health factors.</p>
+        <div class="grid">
+            <div>
+                <label id="lblAge">Age</label>
+                <input type="number" id="age" placeholder="e.g. 45">
+            </div>
+            <div>
+                <label id="lblBmi">BMI</label>
+                <input type="number" id="bmi" step="0.1" placeholder="e.g. 24.5">
+            </div>
+            <div>
+                <label id="lblFamily">Family History</label>
+                <select id="family">
+                    <option value="no" id="optNo">No History</option>
+                    <option value="yes" id="optYes">Yes (Parents/Siblings)</option>
+                </select>
+            </div>
+            <div>
+                <label id="lblSymptoms">Symptoms Count</label>
+                <input type="number" id="symptoms" placeholder="e.g. 2">
+            </div>
+        </div>
+        <button onclick="calculateRisk()" id="btnRisk" class="btn-risk">Calculate Risk</button>
+
+        <div id="riskResult" class="box" style="display: none; text-align: center;">
+            <strong id="riskLabel">Risk Level:</strong> <span id="riskValue"></span>
+        </div>
+    </div>
+    <script src="/static/script.js"></script>
+</body>
+</html>

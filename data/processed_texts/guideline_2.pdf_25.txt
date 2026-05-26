@@ -1,0 +1,14 @@
+Tabel 2. Klasifikasi kelas rekomendasi 
+Kualitas Bukti Keterangan 
+A Berdasar pada peringkat  bukti 1 sehingga 
+prosedur/terapi sangat direkomendasikan 
+B Berdasar pada peringkat  bukti 2 sehingga 
+prosedur/terapi direkomendasikan untuk dilakukan 
+C Berdasar pada peringkat bukti 3 sehingga 
+prosedur/terapi dapat dilakukan 
+D Berdasar pada peringkat  bukti 4 sehingga 
+prosedur/terapi dapat dipertimbangkan 
+ 
+Indonesia sampai saat ini belum menetapkan derajat rekomendasi 
+berdasarkan bukti penelitian sendiri, oleh sebab i tu derajat rekomendasi 
+yang akan digunakan pada pedoman ini mengacu dari ADA 2019.

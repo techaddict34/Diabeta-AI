@@ -1,0 +1,9 @@
+from http://emedicine.medscape.com/article/122122-overview
+.
+184. Agiostratidou G, Anhalt H, Ball D, et al. Standardizing clinically meaningful
+outcome measures beyond HbA1c for type 1 diabetes: a consensus report
+of the American Association of Clinical Endocrinologists, the American
+Association of Diabetes Educators, the American Diabetes Association, the
+Endocrine Society,  JDRF International, The Leona M. and Harry B.
+Helmsley Charitable Trust, the Pediatric Endocrine Society, and the T1D
+Exchange. Diabetes Care. 2017;40:1622-30

@@ -1,0 +1,31 @@
+50% dari dosis 
+sebelumnya 
+111-180 infus insulin 
+tambah 0,3 
+unit/jam 
+Stop bolus Infus insulin dikurangi 
+30% dari dosis 
+sebelumnya 
+181-240 infus insulin 
+tambah 0,5 
+unit/jam 
+2 unit Infus tidak berubah, stop 
+bolus 
+241-300 infus insulin 
+tambah 1 unit/jam 
+3 unit Infus tidak berubah, stop 
+bolus 
+301-360 infus insulin 
+tambah 1,2 
+unit/jam 
+4 unit Infus tidak berubah, stop 
+bolus 
+361-420 infus insulin 
+tambah 1,5 
+unit/jam 
+5 unit Infus tidak berubah, stop 
+bolus 
+421-480 infus insulin 
+tambah 2 unit/jam 
+6 unit Infus tidak berubah, stop 
+bolus

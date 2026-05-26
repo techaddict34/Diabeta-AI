@@ -1,0 +1,11 @@
+2. Fixed ratio combination  seperti IdegLira atau IglarLixi dengan pemberian 1 kali 
+suntikan/hari dosis 10 unit  
+2. Basal plus dengan optimisasi dosis hingga 0,5 unit/kgbb/hari 
+3. Basal bolus dengan optimisasi dosis hingga mencapai target. 
+ 
+Terapi Intensifikasi 
+Pada kelompok Co-formulation atau FRC : penyesuaian terapi intensifikasi sesuai 
+dengan penjelasan pada gambar 3A 
+ Pada kelompok basal plus : jika target kontrol glikemik belum tercapai 
+maka dapat ditingkatkan menjadi basal plus 1 Æ plus 2 Æ plus 3 (atau basal 
+bolus)

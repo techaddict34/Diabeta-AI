@@ -1,0 +1,13 @@
+diberikan obat lain seperti tabel lini pertama  dan ditambah dengan obat lain 
+yang mempunyai mekanisme kerja yang berbeda.  
+3. Kombinasi 3 obat perlu diberikan bila sesudah terapi 2 macam obat selama 3 
+bulan tidak mencapai target HbA1c < 7% 
+4. Untuk pasien dengan HbA1c saat diperiksa > 9% namun tanpa diserta i dengan 
+gejala dekompensasi metabolik atau penurunan berat badan yang cepat, maka 
+dapat diberikan terapi kombinasi 2 atau 3 obat, yang terdiri dari metformin 
+(atau obat lain pada lini pertama bila ada intoleransi terhadap metformin) 
+ditambah obat dari lini ke 2. 
+5. Untuk pasien dengan HbA1c saat diperiksa > 9% dengan disertai gejala 
+dekompensasi metabolik maka diberikan terapi kombinasi insulin dan obat 
+hipoglikemik lainnya. 
+6. Pasien yang telah mendapat terapi kombinasi 3 obat dengan atau tanpa insulin,

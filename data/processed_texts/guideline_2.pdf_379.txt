@@ -1,0 +1,45 @@
+-132- 
+ 
+Tabel 29. Protokol Insulin Infus Modifikasi Northwestern 
+Nilai glukosa darah 
+inisial 
+Dosis bolus inisial  
+(unit) 
+Kecepatan infus 
+(unit/jam) 
+110-180 2 2 
+181-240 3 3 
+241-300 4 4 
+301-360 5 5 
+361-420 6 6 
+421-480 7 7 
+Tabel 30. Protokol Insulin Infus Modifikasi Northwern jika GD naik 
+Nilai 
+glukosa 
+darah saat 
+ini 
+Bolus 
+insulin 
+Perubahan dari glukosa darah sebelumnya  
+terjadi peningkatan  
+Peningkatan <60 mg/dL  Peningkatan >60 mg/dL 
+80-110 tidak 
+dibolus kecepatan infus tetap  kecepatan infus tetap  
+111-180 2 infus insulin tambah 0,3 
+unit/jam 
+infus insulin tambah 0,5 
+unit/jam 
+181-240 3 infus insulin tambah 0,8 
+unit/jam 
+infus insulin tambah 1 
+unit/jam 
+241-300 4 infus insulin tambah 1 
+unit/jam 
+infus insulin tambah 1,2 
+unit/jam 
+301-360 5 infus insulin tambah 1,5 
+unit/jam 
+infus insulin tambah 1,8 
+unit/jam 
+361-420 6 infus insulin tambah 2 
+unit/jam

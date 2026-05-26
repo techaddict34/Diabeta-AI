@@ -1,0 +1,12 @@
+1 atau untuk pasien yang menerima terapi kortikosteroid, atau 
+diabetes melitus yang sebelumnya mendapat >80 unit insulin per 
+hari di rawat jalan 
+c. Algoritme 3: untuk pasien yang tidak terkontrol dengan algoritme 
+2, untuk  memulai algoritme 3 sebaiknya lakukan konsultasi 
+dengan ahli endokrinologi 
+d. Algoritme 4: apabila pasien tidak terkontrol dengan algoritme 3, 
+gunakan algoritme 4 dan untuk lakukan algoritme ini sebaiknya 
+di supervisi langsung oleh ahli endokrinologi. 
+4. Pindah dari satu algoritme satu ke algoritme lainnya:  
+a. Naik ke algoritme selanjutnya bila nilai glukosa masih di luar 
+target setelah titrasi insulin

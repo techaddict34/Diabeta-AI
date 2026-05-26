@@ -1,0 +1,11 @@
+Sindrom koroner akut (SKA) merupakan suatu kegawatan medis yang 
+diakibatkan penurunan perfusi jaringan jantung akibat penyempitan 
+hingga penyumbatan arteri koroner. Pasien dengan SKA memberikan 
+gambaran klinis nyeri dada sebelah kiri yang menjalar ke area sekitar. 
+Klasifikasi SKA ditentukan berdasarkan gambaran EKG dan 
+pemeriksaan laboratorium, yaitu SKA dengan elevasi segmen ST 
+(STEMI) dan SKA tanpa peningkatan segmen ST (NSTEMI atau angina 
+pektoris tidak stabil).  
+Konsensus penatalaksanaan SKA dengan elevasi segmen ST oleh 
+European Society of Cardiology pada tahun 2012 menjelaskan bahwa 
+target glukosa darah pasien harus di bawah 200 mg/dL karena

@@ -1,0 +1,24 @@
+kurang, normal, BB lebih atau obes. Pada pasien BB kurang 
+perhitungan kebutuhan energi menggunakan BB aktual, 
+sedangkan pada pasien BB normal atau lebih menggunakan 
+BB ideal.  
+Berikut penghitungan BB ideal seseorang dengan klasifikasi 
+BB: 
+a) Perhitungan berat badan ideal  (BBI) menggunakan 
+rumus Broca yang dimodifikasi: 
+(1) Berat badan ideal = 90% x (TB dalam cm - 100) x 1 
+kg 
+(2) Bagi pria dengan tinggi badan di  bawah 160 cm 
+dan wanita di  bawah 150 cm, rumus dimodifikasi 
+menjadi: 
+Berat badan ideal (BBI) = (TB dalam cm -  100) x 1 
+kg. 
+(a) Normal: BB ideal ± 10 % 
+(b) Kurus: kurang dari BBI - 10 % 
+(c) Gemuk: lebih dari BBI + 10 % 
+b) Perhitungan berat badan ideal menurut i ndeks massa 
+tubuh (IMT) 
+Perhitungan BB ideal (kg) berdasarkan rumus IMT 
+adalah tinggi badan  dalam satuan meter yang 
+dikuadratkan (m
+2) dikalikan dengan 22 kg/m 2. Indeks

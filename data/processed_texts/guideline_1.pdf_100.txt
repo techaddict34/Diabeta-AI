@@ -1,0 +1,26 @@
+pada beberapa faktor yaitu: jenis kelamin, umur, aktivitas, berat badan, dan lain-lain. 
+Beberapa cara perhitungan berat badan ideal adalah sebagai berikut: 
+  
+ Perhitungan berat badan ideal (BBI) menggunakan rumus Broca yang 
+dimodifikasi:  
+o Berat badan ideal =  
+90% x (TB dalam cm - 100) x 1 kg 
+ 
+o Bagi pria dengan tinggi badan di bawah 160 cm dan wanita di bawah 150 cm, 
+rumus dimodifikasi menjadi: 
+Berat badan ideal (BBI) = 
+(TB dalam cm ʹ 100) x 1 kg 
+ BB normal   : BB ideal ± 10 % 
+ Kurus          : kurang dari BB ideal ʹ 10%  
+ Gemuk        : lebih dari BB ideal + 10% 
+ 
+Perhitungan berat badan ideal menurut Indeks Massa Tubuh (IMT).  
+Indeks massa tubuh dapat dihitung dengan rumus : 
+IMT = BB (kg)/TB (m2)  
+Klasifikasi IMT : 
+o BB kurang < 18,5  
+o BB normal 18,5 ʹ 22,9  
+o BB lebih ш 23,0 
+- Dengan risiko 23,0 ʹ 24,9  
+- Obese I 25,0 ʹ 29,9  
+- Obese II ш 30

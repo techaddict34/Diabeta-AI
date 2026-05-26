@@ -1,0 +1,9 @@
+2) Cyclical Feeding : insulin basal long acting  subkutan 
+ditambah dosis koreksi di awal siklus enteral feeding.  
+2. Status hidrasi dan konsentrasi kalium dalam darah 
+Pemberian insulin intravena diikuti dengan substitusi kalium untuk 
+mempertahankan kalium plasma >3,5 meq/dL 
+Protokol Insulin Infus Modifikasi Texas untuk pasien dewasa di ICU  
+Insulin intravena diberikan bila glukosa di atas nilai target. Dosis 
+bolus inisial dan kecepatan infus insulin inisial adalah nilai glukosa dibagi 
+100, kemudian dibulatkan ke 0,5 unit yang terdekat. Selanjutnya

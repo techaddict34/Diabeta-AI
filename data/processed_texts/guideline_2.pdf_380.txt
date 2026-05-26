@@ -1,0 +1,40 @@
+unit/jam 
+infus insulin tambah 1,2 
+unit/jam 
+301-360 5 infus insulin tambah 1,5 
+unit/jam 
+infus insulin tambah 1,8 
+unit/jam 
+361-420 6 infus insulin tambah 2 
+unit/jam 
+infus insulin tambah 2,5 
+unit/jam 
+421-480 8 infus insulin tambah 3 
+unit/jam 
+infus insulin tambah 4 
+unit/jam 
+Tabel 31. Protokol Insulin Infus Modifikasi Northwern jika GD turun 
+Nilai glukosa 
+darah saat ini 
+Perubahan dari glukosa darah sebelumnya  
+terjadi penurunan 
+<70 mg/dL 
+(hipoglikemia) Lihat protokol hipoglikemia 
+ Penurunan <60 
+mg/dL 
+Bolus insulin Penurunan >60 mg/dL  
+70-80 Stop infus insulin  Stop bolus Stop infus insulin  
+81-110 Kecepatan infus 
+tetap 
+Stop bolus Infus insulin dikurangi 
+50% dari dosis 
+sebelumnya 
+111-180 infus insulin 
+tambah 0,3 
+unit/jam 
+Stop bolus Infus insulin dikurangi 
+30% dari dosis 
+sebelumnya 
+181-240 infus insulin 
+tambah 0,5 
+unit/jam

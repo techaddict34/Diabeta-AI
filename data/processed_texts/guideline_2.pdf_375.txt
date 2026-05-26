@@ -1,0 +1,16 @@
+<1 unit/jam 
+b. Pasien menerima dosis pertama insulin basal subkutan + 
+peralihan ke dosis prandial. 
+2. Dosis bolus i nisial dan kecepatan infus insulin inisial adalah nilai 
+glukosa/100, kemudian dibulatkan ke 0,5 unit yang terdekat untuk 
+bolus dan kecepatan infus, contoh: 
+a. Nilai glukosa awal = 326 mg/dL: 326÷100=3,26, dibulatkan 
+menjadi 3,5:bolus IV 3,5 unit + mulai infus insulin 3,5 unit/jam 
+b. Nilai glukosa awal =174 mg/dL: 174÷100=1,74 dibulatkan 
+menjadi 1,5: bolus IV 1,5 unit + mulai infus insulin 1,5 unit/jam 
+3. Sesuaikan kecepatan insulin IV: 
+a. Algoritme 1: umumnya pasien menggunakan algoritme ini 
+b. Algoritme 2: untuk pasien yang tidak terkontrol dengan algoritme 
+1 atau untuk pasien yang menerima terapi kortikosteroid, atau 
+diabetes melitus yang sebelumnya mendapat >80 unit insulin per 
+hari di rawat jalan

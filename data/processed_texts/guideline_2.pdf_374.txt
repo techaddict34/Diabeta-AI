@@ -1,0 +1,17 @@
+-130- 
+ 
+kecepatan insulin intravena disesuaikan dengan kadar glukosa darah. 
+Infus insulin harus dihentikan bila pasien mendapat do sis kurang dari 1 
+unit per jam atau pasien tidak mempunyai riwayat DM sebelumnya. 
+Preparasi infus insulin intravena dilakukan dengan cara mencampur 50 U 
+insulin regular atau insulin analog rapid acting  atau short acting dengan 
+larutan NaCl 0,9% 50 mL dalam disposible syringe 50 mL.  
+Algoritme ini tidak ditujukan untuk digunakan pada pasien DM tipe 
+1, ketoasidosis maupun status hiperosmolar hiperglikemia 
+1. Mulai insulin IV saat glukosa diatas nilai target. Insulin IV harus 
+dihentikan saat:  
+a. Pasien tidak mempunyai riwayat diabetes dan mendapat insulin 
+<1 unit/jam 
+b. Pasien menerima dosis pertama insulin basal subkutan + 
+peralihan ke dosis prandial. 
+2. Dosis bolus i nisial dan kecepatan infus insulin inisial adalah nilai

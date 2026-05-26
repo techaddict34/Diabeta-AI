@@ -1,0 +1,16 @@
+jaringan sampai kedalaman lebih dari 5 cm. Modalitas MWD 
+memiliki frekuensi 2456 Hz dan 915 MHz, dan efek 
+pemanasan terutama dihasilkan oleh medan elektrik. 
+Modalitas SWD memiliki frekuensi 10 -100 MHz, dan efek 
+pemanasan terutama dihasilkan oleh medan magnetik.  
+2) Ultrasound diathermy (USD) 
+Modalitas diatermi yang menggunakan gelombang suara 
+dengan frekuensi 800 KHz -1MHz. Gelombang suara 
+ditransfer ke jaringan tubuh melalui media yang sesuai 
+seperti air atau jeli. Gelombang suara ultra menyebar pada 
+jaringan tubuh secara longitudinal, kemudian diabsorbsi 
+jaringan dan berubah menjadi energi panas. Besaran 
+absorbsi pada tiap jaringan berbeda, y aitu sangat sedikit 
+diabsorbsi pada jaringan lemak, diabsorbsi moderat pada 
+jaringan otot, dan diabsorbsi paling banyak pada jaringan 
+tulang. Kedalaman penetrasi adalah 7 cm.

@@ -1,0 +1,11 @@
+adalah jenis radiasi elektromagnetik, yang memiliki panjang 
+gelombang antara 780 nm sampai 1000 mikrometer. 
+Terdapat tiga jenis IRR, yaitu IRR pendek dengan panjang 
+gelombang 0,78 -3,0 mikro meter, IRR sedang dengan 
+panjang gelombang 3 ,0-50,0 mikro meter, dan IRR jauh 
+dengan panjang gelombang 50 ,0-1000,0 mikrometer, 
+berdasarkan standar ISO 20473:20007. 
+b. Stimulasi elektrik  
+1) Electro stimulation (ES)  
+Indikasi pemberian modalitas elektrostimulasi pada 
+komplikasi DM, yaitu neuropati, miopati, artropati dan

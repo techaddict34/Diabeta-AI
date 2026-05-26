@@ -1,0 +1,15 @@
+pasien yang baru didiagnosis DM. 
+Tata laksana gizi klinis terkini sejalan dengan berkembangnya 
+ilmu pengetahuan khususnya di bidang nutrigenomik, 
+metabolomik dan mikrobiota usus, berupaya memberikan terapi 
+gizi yang lebih tepat atau presisi untuk pasien diabetes. Asupan 
+nutrisi dapat dirancang dengan bantuan teknologi aplikasi untuk 
+membantu menganalisis berba gai data pasien, hingga 
+selanjutnya diperoleh rekomendasi pola makan yang tepat . Data 
+yang diolah meliputi data dasar pasien dan dikombinasi dengan 
+data nutr igenomik (varian genetik, response metabolisme 
+terhadap suatu zat gizi, dan variasi response  individu terhadap 
+suatu intervensi diet), disertai data metabolomik  (data metabolik 
+yang dapat melukiskan gambaran pola diet jangka panjang 
+seseorang), dan mikrobi ota usus  (berhubungan dengan 
+metabolisme makanan dan kontrol glikemik). Ketepatan nutrisi

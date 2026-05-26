@@ -1,0 +1,38 @@
+-23- 
+ 
+Kebutuhan energi total dapat juga diperkirakan dengan 
+menghitung kebutuhan energi basal (KEB) 
+menggunakan rumus Harris Benedict yang dikoreksi  
+dengan faktor stres dan faktor aktivitas pasien.  
+Laki-laki.  
+KEB = 66,5 + (13,8 x BB dalam kg) + (5 x TB dalam 
+cm) – (6,8 x usia dalam tahun) 
+Perempuan.  
+KEB = 665 + (9,6 x BB dalam kg) + (1,8 x TB dalam 
+cm) – (4,7 x usia dalam tahun) 
+Tabel 8. Klasifikasi faktor aktivitas fisis 
+Kelompok 
+Aktivitas 
+Jenis Kegiatan Faktor 
+Aktivitas 
+RINGAN 
+75% waktu = 
+duduk/berdiri 
+25% waktu = 
+berdiri/bergerak 
+1,3 
+SEDANG 
+25% waktu = 
+duduk/berdiri 
+75% waktu = aktivitas 
+perkerjaan tertentu 
+1,50 
+BERAT 
+40% waktu = 
+duduk/berdiri 
+60% waktu = aktivitas 
+pekerjaan tertentu 
+1,70 
+Faktor stres:  
+Bedah minor 1.1- 1.3; bedah mayor 1.5; infeksi ringan 
+1.2-1.3, infeksi sedang 1.4; s epsis 1.5-2; gagal jantung

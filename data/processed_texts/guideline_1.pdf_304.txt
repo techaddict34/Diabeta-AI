@@ -1,0 +1,8 @@
+kalori 
+x Memantau nilai glukosa darah setiap 1 ʹ 2 jam sampai kadar nilai glukosa 
+dan infus insulin stabil, dan dimonitor setiap 4 jam setelah itu. 
+Pertimbangan dalam mengontrol glukosa darah pada sepsis, antara lain: 
+x Kadar glukosa darah yang rendah pada tes point-of-care darah kapiler harus 
+diintepretasikan dengan hati -hati, karena pengukuran tersebut melebihi 
+darah arteri atau nilai plasma glukosa 
+x Akurasi dan produksi pada tes point-of-care darah kapiler

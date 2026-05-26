@@ -1,0 +1,19 @@
+Berat badan 
+normal 
+18,5-
+22,9 Cukup Meningkat 
+Berat badan 
+lebih ≥ 23   
+Berisiko 23-
+24,9 Meningkat Moderat 
+Obesitas I 25-
+29,9 Moderat Berat 
+Obesitas II ≥ 30 Berat Sangat berat 
+Kebutuhan energi total seorang dewasa  dapat dihitung 
+menggunakan rumus praktis rule of thumb, yaitu 25-30 
+kkal/kg BB/hari pada pasien dengan akti vitas rendah, 
+30-35 kkal/kg BB/hari pada pasien dengan akti vitas 
+sedang, dan 35 -40 kkal/kg BB/hari pada pasien 
+dengan akti vitas tinggi. Pengunaan rumus ini tidak 
+perlu mengalikan dengan faktor aktivitas fisis, maupun 
+faktor stres metabolik akibat penyakitnya.

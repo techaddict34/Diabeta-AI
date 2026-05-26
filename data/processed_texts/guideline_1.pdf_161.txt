@@ -1,0 +1,15 @@
+diperbolehkan optimisasi 1 kali dosis/hari. Jika pada evaluasi bulan 
+berikutnya, target kontrol glikemik belum tercapai dengan didapatkan GDP 
+atau GD pre-prandial pagi tinggi maka dilakukan intensifikasi 1 kali FRC + 
+Prandial 1 kali lanjut 2 kali/hari. Jika  intensifikasi belum berhasil maka FRC 
+dihentikan dan diganti dengan regimen basal bolus.  
+ 
+Gambar 4Bʹ Terapi Inisiasi dan Intensifikasi Pengobatan Injeksi pada Pasien DM 
+Baru dengan HbA1c >9% atau GDP t250 mg/dL atau GDS t300 mg/dL atau Gejala 
+Dekompensasi Metabolik  
+ 
+Terapi Inisiasi dapat dilakukan dengan beberapa regimen berikut : 
+1. Co-formulation (iDegAsp) atau premixed 30/70 atau 25/75  
+2. Fixed ratio combination  seperti IdegLira atau IglarLixi dengan pemberian 1 kali 
+suntikan/hari dosis 10 unit  
+2. Basal plus dengan optimisasi dosis hingga 0,5 unit/kgbb/hari

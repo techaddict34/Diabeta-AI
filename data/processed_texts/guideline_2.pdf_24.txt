@@ -1,0 +1,23 @@
+-10- 
+ 
+C. Peringkat bukti untuk rekomendasi praktik klinis 
+Tabel 1. Kekuatan peringkat bukti 
+Kualitas Bukti Keterangan 
+1 Penilaian didapat dari hasil penelitian lebih dari 1 uji 
+klinis acak besar dengan randomisasi, atau meta-
+analisis yang berkualitas 
+2 Penilaian didapat dari hasil penelitian dari 1 atau lebih 
+uji klinis yang lebih kecil/tidak dirandomisasi , 
+penelitian kohort, atau meta -analisis yang b erkualitas 
+sedang 
+3 Penilaian didapat dari hasil penelitian retrospektif, 
+observasional, atau meta -analisis yang mempunyai 
+keterbatasan dalam metodologi 
+4 Konsensus ahli atau opini dari ahli yang 
+berpengalaman, atau serial kasus/laporan kasus 
+ 
+Tabel 2. Klasifikasi kelas rekomendasi 
+Kualitas Bukti Keterangan 
+A Berdasar pada peringkat  bukti 1 sehingga 
+prosedur/terapi sangat direkomendasikan 
+B Berdasar pada peringkat  bukti 2 sehingga
