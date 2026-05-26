@@ -1,3 +1,14 @@
+---
+title: Diabeta Assistant
+emoji: 🏥
+colorFrom: blue
+colorTo: green
+sdk: docker
+app_port: 7860
+---
+
+
+
 # Diabetes RAG Screening Assistant
 
 A Retrieval-Augmented Generation (RAG) system using Indonesian diabetes guidelines.
