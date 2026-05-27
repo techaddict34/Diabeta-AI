@@ -118,7 +118,7 @@ async function askBackend() {
     resultArea.style.display = "none";
 
     try {
-        const response = await fetch("/chat", {
+        const response = await fetch(`${window.location.origin}/chat`, {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ 
@@ -184,7 +184,7 @@ async function calculateRisk() {
 
     try {
         // Hits your FastAPI endpoint using a relative production path
-        const response = await fetch("/screen", {
+        const response = await fetch(`${window.location.origin}/chat`, {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ 
@@ -222,3 +222,8 @@ async function calculateRisk() {
         btnRisk.disabled = false;
     }
 }
+
+window.onload = function() {
+    checkStatus();        // 1. Immediately tests server connectivity
+    switchUILanguage();   // 2. Forces text strings to read from your clean "Diabeta" dictionary
+};
