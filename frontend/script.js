@@ -4,19 +4,19 @@ let currentLang = "en";
 // Translation Dictionaries for Instant UI Swapping
 const uiTranslations = {
     en: {
-        lblLanguage: "🌐 Language:",
-        mainHeader: "🏥 Diabetes AI Assistant",
-        gptHeader: "🚀 Try Diabeta AI (Advanced)",
+        lblLanguage: "Language:",
+        mainHeader: "Diabetes AI Assistant",
+        gptHeader: "Try Diabeta AI (Advanced)",
         gptSub: "Access our specialized Custom GPT directly on the ChatGPT platform for advanced analysis.",
-        ragHeader: "💬 Ask the Guidelines",
+        ragHeader: "Ask the Guidelines",
         ragSub: "Get answers from diabetes management guidelines using our AI-powered system.",
         placeholder: "e.g., What is the BMI cutoff for Asian populations?",
         btnText: "Ask Our RAG",
         thinking: "Thinking...",
         answerLabel: "Answer:",
-        sourcesHeader: "📚 Sources:",
+        sourcesHeader: "Sources:",
         alertText: "Please type a question!",
-        riskHeader: "⚠️ Risk Screening Calculator",
+        riskHeader: "Risk Screening Calculator",
         riskSub: "Calculate your diabetes risk based on key health factors.",
         lblAge: "Age",
         lblBmi: "BMI",
@@ -28,19 +28,19 @@ const uiTranslations = {
         riskLabel: "Risk Level:"
     },
     id: {
-        lblLanguage: "🌐 Bahasa:",
-        mainHeader: "🏥 Asisten AI Diabetes",
-        gptHeader: "🚀 Coba Diabeta AI (Lanjutan)",
+        lblLanguage: "Bahasa:",
+        mainHeader: "Asisten AI Diabetes",
+        gptHeader: "Coba Diabeta AI (Lanjutan)",
         gptSub: "Akses Custom GPT khusus kami langsung di platform ChatGPT untuk analisis tingkat lanjut.",
-        ragHeader: "💬 Tanya Pedoman Medis",
+        ragHeader: "Tanya Pedoman Medis",
         ragSub: "Dapatkan jawaban dari pedoman manajemen diabetes menggunakan sistem bertenaga AI kami.",
         placeholder: "misal, Berapa batas ambang BMI untuk populasi Asia?",
         btnText: "Tanya RAG Kami",
         thinking: "Sedang Berpikir...",
         answerLabel: "Jawaban:",
-        sourcesHeader: "📚 Sumber Acuan:",
+        sourcesHeader: "Sumber Acuan:",
         alertText: "Silakan ketik pertanyaan Anda!",
-        riskHeader: "⚠️ Kalkulator Skrining Risiko",
+        riskHeader: "Kalkulator Skrining Risiko",
         riskSub: "Hitung risiko diabetes Anda berdasarkan faktor-faktor kesehatan utama.",
         lblAge: "Usia",
         lblBmi: "BMI (Indeks Massa Tubuh)",
@@ -57,7 +57,7 @@ const uiTranslations = {
 async function checkStatus() {
     const statusDiv = document.getElementById("status");
     try {
-        const res = await fetch("/"); // 🌟 Updated to relative path
+        const res = await fetch("/"); //Updated to relative path
         if (res.ok) {
             statusDiv.innerText = "Server Status: Online";
             statusDiv.className = "online";
@@ -76,7 +76,7 @@ function switchUILanguage() {
     currentLang = document.getElementById("langToggle").value;
     const t = uiTranslations[currentLang];
     
-    // 🌟 Instantly swaps "🌐 Language:" to "🌐 Bahasa:"
+    // 🌟 Instantly swaps "Language:" to "Bahasa:"
     document.getElementById("lblLanguage").innerText = t.lblLanguage;
     
     // Update Layout Text Elements dynamically
@@ -166,7 +166,7 @@ async function askBackend() {
     }
 }
 
-// Risk Calculator Server-Side Logic 🌟
+// Risk Calculator Server-Side Logic 
 async function calculateRisk() {
     const age = parseInt(document.getElementById("age").value);
     const bmi = parseFloat(document.getElementById("bmi").value);
@@ -182,7 +182,7 @@ async function calculateRisk() {
     btnRisk.disabled = true;
 
     try {
-        // 🚀 Hits your FastAPI endpoint using a relative production path
+        // Hits your FastAPI endpoint using a relative production path
         const response = await fetch("/screen", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
