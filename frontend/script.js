@@ -184,7 +184,7 @@ async function calculateRisk() {
 
     try {
         // Hits your FastAPI endpoint using a relative production path
-        const response = await fetch(`${window.location.origin}/chat`, {
+        const response = await fetch(`${window.location.origin}/screen`, {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ 
