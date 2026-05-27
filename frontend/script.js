@@ -5,7 +5,7 @@ let currentLang = "en";
 const uiTranslations = {
     en: {
         lblLanguage: "Language:",
-        mainHeader: "Diabetes AI Assistant",
+        mainHeader: "Diabeta",
         gptHeader: "Try Diabeta AI (Advanced)",
         gptSub: "Access our specialized Custom GPT directly on the ChatGPT platform for advanced analysis.",
         ragHeader: "Ask the Guidelines",
@@ -29,7 +29,7 @@ const uiTranslations = {
     },
     id: {
         lblLanguage: "Bahasa:",
-        mainHeader: "Asisten AI Diabetes",
+        mainHeader: "Diabeta",
         gptHeader: "Coba Diabeta AI (Lanjutan)",
         gptSub: "Akses Custom GPT khusus kami langsung di platform ChatGPT untuk analisis tingkat lanjut.",
         ragHeader: "Tanya Pedoman Medis",
@@ -57,7 +57,7 @@ const uiTranslations = {
 async function checkStatus() {
     const statusDiv = document.getElementById("status");
     try {
-        const res = await fetch("/"); //Updated to relative path
+        const res = await fetch(`${window.location.origin}/`);
         if (res.ok) {
             statusDiv.innerText = "Server Status: Online";
             statusDiv.className = "online";
@@ -65,7 +65,8 @@ async function checkStatus() {
             statusDiv.innerText = "Server Status: Offline";
             statusDiv.className = "offline";
         }
-    } catch {
+    } catch (err) {
+        console.error("Connection check failed:", err);
         statusDiv.innerText = "Server Status: Error Connecting";
         statusDiv.className = "offline";
     }
