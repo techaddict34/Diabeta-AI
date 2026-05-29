@@ -77,7 +77,6 @@ function switchUILanguage() {
     currentLang = document.getElementById("langToggle").value;
     const t = uiTranslations[currentLang];
     
-    // 🌟 Instantly swaps "Language:" to "Bahasa:"
     document.getElementById("lblLanguage").innerText = t.lblLanguage;
     
     // Update Layout Text Elements dynamically

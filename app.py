@@ -43,45 +43,36 @@ class RiskInput(BaseModel):
 def read_root():
     return FileResponse("frontend/index.html")
 
-# Refactored for Clean JSON
 @app.post("/chat")
 def chat(data: ChatQuery):
     try:
-        # Call the function from ragQuery.py
-        answer, raw_sources = ask_question(data.question, data.language)
+        # FORCE name mapping declaration down the data channel
+        answer, raw_sources = ask_question(q=data.question, lang=data.language)
         
-        # Process sources to be "Frontend Friendly" and Clickable
         clean_sources = []
         for src in raw_sources:
             full_source = src.metadata.get("source", "Unknown")
             filename = os.path.basename(full_source)
-            
-            # Clean up the file extension (Turns "guideline_1.pdf_32.txt" into "guideline_1.pdf")
             clean_pdf_name = filename.split(".pdf")[0] + ".pdf"
             
-            # Organization & Ministry Title Mapping
             display_title_map = {
                 "guideline_1.pdf": "PERKENI (Perkumpulan Endokrinologi Indonesia) Guidelines",
                 "guideline_2.pdf": "KMK Kemenkes RI (Pedoman Nasional Pelayanan Kedokteran)"
             }
             final_title = display_title_map.get(clean_pdf_name, clean_pdf_name)
-            
-            # Create the local web link pointing straight to the mounted static file folder
             file_url = f"http://127.0.0.1:8000/static/{clean_pdf_name}"
 
-            # CRITICAL: Ensure all 4 of these keys match what script.js expects!
             clean_sources.append({
                 "title": final_title,
                 "page": src.metadata.get("page", "N/A"),
                 "snippet": src.page_content[:200] + "...",
-                "url": file_url  # 🌟 MAKE SURE THIS LINE EXISTS NATIVELY HERE!
+                "url": file_url 
             })
 
         return {
             "answer": answer,
             "citations": clean_sources
         }
-    
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
@@ -92,7 +83,8 @@ def screen(data: RiskInput):
             age=data.age,
             bmi=data.bmi,
             family_history=data.family_history,
-            symptoms_count=data.symptoms_count
+            symptoms_count=data.symptoms_count,
+            language=data.language
         )
         return {"risk": result}
     except Exception as e:

@@ -49,7 +49,6 @@ def ask_question(q, lang="en"):
         
     context = "\n\n".join([doc.page_content for doc in docs]) if docs else "No specific guideline text found."
     
-    # 🌟 UPDATED: Lowercase the string and check for both "en" and "english"
     lang_clean = str(lang).strip().lower()
 
     if lang_clean in ["en", "english"]:
