@@ -15,4 +15,4 @@ def calculate_risk(age, bmi, family_history, symptoms_count):
     elif risk_score == 2:
         return "Moderate Risk"
     else:
-        return "High Risk — please take a glucose test"
+        return "High Risk (please take a glucose test)"

@@ -107,6 +107,7 @@ function switchUILanguage() {
 
 // Chatbot Logic
 async function askBackend() {
+    currentLang = document.getElementById("langToggle").value;
     const question = document.getElementById("question").value;
     const btn = document.getElementById("askBtn");
     const resultArea = document.getElementById("chatResult");
@@ -177,6 +178,10 @@ async function calculateRisk() {
     // Initial client-side validation check
     if (isNaN(age) || isNaN(bmi) || isNaN(symptoms)) {
         return alert(currentLang === "id" ? "Silakan isi semua bidang data!" : "Please fill in all fields!");
+    }
+
+    if (age < 0 || bmi < 0 || symptoms < 0) {
+    return alert(currentLang === "id" ? "Nilai tidak boleh negatif!" : "Values cannot be negative!");
     }
 
     const btnRisk = document.getElementById("btnRisk");

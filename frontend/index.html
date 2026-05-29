@@ -52,11 +52,11 @@
         <div class="grid">
             <div>
                 <label id="lblAge">Age</label>
-                <input type="number" id="age" placeholder="e.g. 45">
+                <input type="number" id="age" min="0" placeholder="e.g. 45">
             </div>
             <div>
                 <label id="lblBmi">BMI</label>
-                <input type="number" id="bmi" step="0.1" placeholder="e.g. 24.5">
+                <input type="number" id="bmi" step="0.1" min="0" placeholder="e.g. 24.5">
             </div>
             <div>
                 <label id="lblFamily">Family History</label>
@@ -67,7 +67,7 @@
             </div>
             <div>
                 <label id="lblSymptoms">Symptoms Count</label>
-                <input type="number" id="symptoms" placeholder="e.g. 2">
+                <input type="number" id="symptoms" min="0" placeholder="e.g. 2">
             </div>
         </div>
         <button onclick="calculateRisk()" id="btnRisk" class="btn-risk">Calculate Risk</button>
