@@ -1,24 +1,59 @@
 import os
-from langchain.embeddings import HuggingFaceEmbeddings
+from langchain_community.embeddings import HuggingFaceHubEmbeddings as HuggingFaceInferenceAPIEmbeddings
 from langchain_community.vectorstores import FAISS
+from dotenv import load_dotenv
+
+# What step this codefile covers:
+# 1) Loading Encoded Texts
+# 2) Embed Them into Vectors
+# 3) Store those Vectors into Database
 
 
-processed_dir = "data/processed_texts/" # Take all the chunks from processed_texts folder to do the embedding process
+base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+env_path = os.path.join(base_dir, ".env")
+load_dotenv(dotenv_path=env_path)
+
+# use absolute path tracking instead of looking at text directory
+processed_dir = os.path.join(base_dir, "data", "processed_texts")
+
+hf_token = os.getenv("HF_TOKEN")
+
+if not hf_token:
+    raise ValueError("CRITICAL ERROR: HF_TOKEN not found. Please add it to your .env file.")
 
 def build_vector_db():
-    texts = [] # Make a list to collect all the chunked texts
+    if not os.path.exists(processed_dir):
+        raise FileNotFoundError(f"CRITICAL ERROR: The directory {processed_dir} does not exist.")
+    
+    texts = [] 
     metadatas = []
 
     for file in os.listdir(processed_dir):
         if file.endswith(".txt"):
             file_path = os.path.join(processed_dir, file)
-        with open(file_path, "r", encoding="utf-8") as f: # Join all the files from processed_dir to read and gather them to list (texts)
-            texts.append(f.read())
-            metadatas.append({"source": file})
+            with open(file_path, "r", encoding="utf-8") as f: 
+                texts.append(f.read())
+                metadatas.append({"source": file})
 
-    embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2") # Prepare the model for the embedding process
-    database = FAISS.from_texts(texts=texts, embedding=embeddings, metadatas=metadatas) # FAISS (Facebook AI Similarity Search) all of the texts that have been embedded and store as variable database
-    database.save_local("vector_db") # Store the FAISS vector database locally so future runs can load it quickly (vector_db is the folder that we will store the db locally in)
+    if not texts:
+        print("WARNING: No text files found to embed.")
+        return
+
+    # convert texts to vector embeddings
+    embeddings = HuggingFaceInferenceAPIEmbeddings(
+        huggingfacehub_api_token=hf_token,
+        repo_id="sentence-transformers/all-MiniLM-L6-v2" # repo_id is model_name
+    )
+
+    # do FAISS (Facebook AI Similarity Search)
+    '''What FAISS does:
+    1) plots vectors into a large, multi-dim mathematical storage map
+    2) performs the "nearest neighbor" similarity search between chunks'''
+    database = FAISS.from_texts(texts=texts, embedding=embeddings, metadatas=metadatas) 
+
+    output_db_path = os.path.join(base_dir, "vector_db")
+    # Save locally so future runs can load it quickly 
+    database.save_local(output_db_path) 
 
 if __name__ == "__main__":
     build_vector_db()

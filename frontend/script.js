@@ -1,7 +1,6 @@
-// Global State Tracking for Language
 let currentLang = "en";
 
-// Translation Dictionaries for Instant UI Swapping
+// translation dictionaries for instant UI swapping
 const uiTranslations = {
     en: {
         lblLanguage: "Language:",
@@ -53,7 +52,7 @@ const uiTranslations = {
     }
 };
 
-// Check Backend Server Connection Status
+// check backend server connection status
 async function checkStatus() {
     const statusDiv = document.getElementById("status");
     try {
@@ -72,14 +71,14 @@ async function checkStatus() {
     }
 }
 
-// Function to handle instant UI text translation
+// To handle instant UI text translation
 function switchUILanguage() {
     currentLang = document.getElementById("langToggle").value;
     const t = uiTranslations[currentLang];
     
     document.getElementById("lblLanguage").innerText = t.lblLanguage;
     
-    // Update Layout Text Elements dynamically
+    // element language based on dictionary
     document.getElementById("mainHeader").innerText = t.mainHeader;
     document.getElementById("gptHeader").innerText = t.gptHeader;
     document.getElementById("gptSub").innerText = t.gptSub;
@@ -104,7 +103,7 @@ function switchUILanguage() {
     document.getElementById("riskLabel").innerText = t.riskLabel;
 }
 
-// Chatbot Logic
+// chatbot logic
 async function askBackend() {
     currentLang = document.getElementById("langToggle").value;
     const question = document.getElementById("question").value;
@@ -129,11 +128,11 @@ async function askBackend() {
 
         const data = await response.json();
 
-        // Scrub out formatting asterisks from the text before sending it to the screen
+        // scrub out formatting asterisks from the text before sending it to the screen
         const cleanAnswer = data.answer.replace(/\*\*/g, "").replace(/\*/g, "");
         document.getElementById("answerText").innerText = cleanAnswer;
         
-        // Citations Output Generator
+        // citations output generator
         const citationsArea = document.getElementById("citationsArea");
         if (data.citations && data.citations.length > 0) {
             let html = `<h4 style='margin-top: 20px; color: #1e293b;'>${uiTranslations[currentLang].sourcesHeader}</h4>`;
@@ -167,18 +166,19 @@ async function askBackend() {
     }
 }
 
-// Risk Calculator Server-Side Logic 
+// risk calculator server-side logic (from the riskScreening.py)
 async function calculateRisk() {
     const age = parseInt(document.getElementById("age").value);
     const bmi = parseFloat(document.getElementById("bmi").value);
     const family = document.getElementById("family").value;
     const symptoms = parseInt(document.getElementById("symptoms").value);
 
-    // Initial client-side validation check
+    // initial client-side validation check (not leaving any field empty)
     if (isNaN(age) || isNaN(bmi) || isNaN(symptoms)) {
         return alert(currentLang === "id" ? "Silakan isi semua bidang data!" : "Please fill in all fields!");
     }
 
+    // make sure user inputs a logical input
     if (age < 0 || bmi < 0 || symptoms < 0) {
     return alert(currentLang === "id" ? "Nilai tidak boleh negatif!" : "Values cannot be negative!");
     }
@@ -187,7 +187,7 @@ async function calculateRisk() {
     btnRisk.disabled = true;
 
     try {
-        // Hits your FastAPI endpoint using a relative production path
+        // hits your FastAPI endpoint using a relative production path
         const response = await fetch(`${window.location.origin}/screen`, {
             method: "POST",
             headers: { "Content-Type": "application/json" },
@@ -202,14 +202,13 @@ async function calculateRisk() {
         
         const data = await response.json();
         
-        // Dynamically color-code the risk level text based on the string value returned by your Python script
         let risk = data.risk;
-        let color = "#10b981"; // Default green (Low)
+        let color = "#10b981"; // Default (for low)
 
         if (risk.includes("High") || risk.includes("Tinggi")) {
-            color = "#ef4444"; // Red
+            color = "#ef4444"; 
         } else if (risk.includes("Moderate") || risk.includes("Sedang")) {
-            color = "#f59e0b"; // Orange
+            color = "#f59e0b"; 
         }
 
         const resDiv = document.getElementById("riskResult");
@@ -228,6 +227,6 @@ async function calculateRisk() {
 }
 
 window.onload = function() {
-    checkStatus();        // 1. Immediately tests server connectivity
-    switchUILanguage();   // 2. Forces text strings to read from your clean "Diabeta" dictionary
+    checkStatus();        // 1) Immediately tests server connectivity
+    switchUILanguage();   // 2) Forces text strings to read from the dictionary above
 };
