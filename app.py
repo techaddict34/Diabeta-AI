@@ -1,13 +1,18 @@
+import os
+from dotenv import load_dotenv
+
+# forces cloud data pipeline to compile first
+print("--- STARTING CLOUD DATA PIPELINE ---")
+os.system("python notebooks/loadData.py")
+os.system("python notebooks/vectorEmbed.py")
+print("--- CLOUD DATA PIPELINE COMPLETE ---")
+
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.middleware.cors import CORSMiddleware 
 from pydantic import BaseModel
-import os
-from dotenv import load_dotenv
 
-# Import your logic
-# Ensure python can find this. If 'notebooks' is a folder, this is correct.
 from notebooks.ragQuery import ask_question
 from notebooks.riskScreening import calculate_risk
 
@@ -17,17 +22,16 @@ app = FastAPI()
 
 app.mount("/static", StaticFiles(directory="frontend"), name="static")
 
-# ENABLE CORS (Essential for Frontend Integration)
+# enable CORS (important for Frontend Integration)
 app.add_middleware(
     CORSMiddleware,
-    # In production, replace ["*"] with your specific frontend domain (e.g., ["http://localhost:5500"])
     allow_origins=["*"], 
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-# Define Data Models
+# define data models
 class ChatQuery(BaseModel):
     question: str
     language: str = "en"
@@ -46,7 +50,7 @@ def read_root():
 @app.post("/chat")
 def chat(data: ChatQuery):
     try:
-        # FORCE name mapping declaration down the data channel
+        # force name mapping declaration down the data channel
         answer, raw_sources = ask_question(q=data.question, lang=data.language)
         
         clean_sources = []
