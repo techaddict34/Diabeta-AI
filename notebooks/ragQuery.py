@@ -53,14 +53,15 @@ def ask_question(q, lang="en"):
     if lang_clean in ["en", "english"]:
         # Eng prompt
         prompt = f"""You are a professional medical AI assistant specializing in Type 2 Diabetes management.
-        Answer the user's question clearly, comprehensively, and educationally using English.
+        You MUST respond in English only, regardless of the language of the context provided below.
+        Answer the user's question clearly, comprehensively, and educationally.
         Use the official guideline text provided below as your primary reference:
 
         Context:
         {context}
 
         Question: {q}
-        Answer:"""
+        Answer in English:"""
     else:
         # Default fallback to the indo layout
         prompt = f"""Anda adalah asisten AI medis spesialis manajemen Diabetes Tipe 2 di Indonesia.
