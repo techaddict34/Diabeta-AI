@@ -1,16 +1,1 @@
-x Dalam terapi OAD tunggal atau kombinasi setiap 3 bulan  
-x Dalam terapi kombinasi OAD dalam 3 bulan telah tercapai target 
-x Komplikasi kronis akibat diabetes setiap 3 bulan 
-x Kehamilan dengan DM setiap 3 bulan 
-x Infeksi kaki : ulkus, selulitis teratasi dan gula darah telah terkontrol 
-x Komplikasi neuropati diabetes dalam 3 bulan 
-(Dirujuk balik ke PPK I untuk mendapatkan pelayanan kesehatan kedokteran dasar atau 
-melanjutkan saran dari pemberi pelayanan kesehatan perujuk) 
- 
-Pada pasien DM tipe 2 di PPK III yang sudah diberikan pelayanan subspesialis 
-endokrin metabolism diabetes, apabila di temukan salah satu hal hal sebagai 
-berikut : 
-x Dalam 3 bulan ditemukan GDP < 130 mg/dL, GDPP < 180 mg/dL atau HbA1c 
-< 7 % 
-x Dalam terapi OAD tunggal dalam 3 bulan telah tercapai target 
-x Dalam terapi kombinasi OAD dalam 3 bulan telah tercapai target
+.  2. Keadaan ALI dapat disebabkan oleh adanya trombus atau emboli yang menyumbat peredaran darah di esktremitas.  3. Onset ALI adalah kurang dari 2 minggu. 4. Terdapaƚ iƐƚilah ͞ϲ P͟ Ǉang didefiniƐikan Ɛebagai gejala dan ƚanda kliniƐ kondisi membahayakan esktremitas terkait : o Pain o Pulselessness o Pallor o Paresthesia  o Paralysis  o Polar (suhu)  IV.5  Diabetes dengan Selulitis dan Fasitis Nekrotikan Selulitis adalah infeksi pada jaringan lunak yang dapat dijumpai pada kaki diabetes tanpa atau dengan ulkus. Penanganan selulitis terutama dengan pemberian antibiotik terutama untuk golongan kokus gram positif. Tindakan segera perlu dilakukan bila telah  terbentuk abses, yaitu berupa insisi dan drainase, dan bila perlu dengan anastesi umum. Kuman golongan anaerob dan MRSA dapat menyebabkan

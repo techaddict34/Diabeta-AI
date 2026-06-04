@@ -1,17 +1,12 @@
--111- 
- 
-direkomendasikan untuk mencapai kadar gula darah dalam rentang 140 -
-180 mg/dL, dan tidak kurang dari 70 mg/dL. Formula enter al spesifik 
-untuk diabetes (tinggi serat dan tinggi MUFA) tidak direkomendasikan 
-pemberiannya pada pasien dengan hiperglikemia. 
-Terapi insulin perioperatif umumnya dipengaruhi oleh tipe diabetes, 
-jenis prosedur pembedahan yang akan dijalani, terapi farmakologis 
-sebelumnya, dan status kendali glikemik sebelum pembedahan. Pada 
-prinsipnya, regimen terapi terdiri dari insulin basal dan prandial. Jika GD 
-terkendali baik dengan diet dan olah raga, tidak perlu intervensi preoperatif 
-khusus. 
-Strategi pemberian insulin pada pasien perioperatif 
-Pra-operasi: 
-1. Pasien yang belum pernah mendapat insulin dapat diberikan insulin 
-kerja cepat atau kerja singkat secara drip dengan dosis 0,5-1 U/jam 
-2. Pasien yang sudah mendapat insulin basal sebelumnya, maka
+terutama pada malam dan pagi hari  
+3. Pasien dengan terapi steroid 1 kali sehari diberikan insulin basal 
+dimulai dengan dosi s 10 unit/hari dan dititrasi 10% -20% sesuai kadar 
+gula darah. Insulin basal paling baik diberikan pagi hari.  
+4. Pasien dengan terapi steroid lebih dari 1 kali sehari seperti hidrokortison IV atau deksametason oral dapat menyebabkan hiperglikemia sepanjang har i selama 24 jam. Regimen insulin basal  
+bolus atau basal plus koreksi atau insulin premixed  2-3 kali sehari 
+merupakan pilihan yang sesuai untuk mencapai target glukosa darah 
+pada kebanyakan pasien  
+5. Monitoring glukosa darah umumnya dilakukan 1 kali sehari 1 -2 jam 
+setelah makan siang atau makan malam, namun jika GD belum 
+terkontrol atau ≥ 200 mg/dL, maka pemeriksaan GD dapat dilakukan 4 kali sehari.  
+Tabel 21. Petunjuk Monitoring Glukosa Darah dengan Pemakaian Steroid

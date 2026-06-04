@@ -1,17 +1,19 @@
-c) Sulfonilurea dapat dipilih sebagai obat pertama jika ada 
-keterbatasan biaya, obat tersedia di fasilitas kesehatan 
-dan pasien tidak rentan terhadap hipoglikemia. 
-d) Acarbose dapat digunakan sebagai alternatif untuk lini 
-pertama jika terdapat peningkatan kadar glukosa 
-prandial yang lebih tinggi dibandingk an kadar glukosa 
-puasa. Hal ini  biasanya terjadi pada pasien dengan 
-asupan karbohidrat yang tinggi.  
-e) Tiazolindinedion dapat juga dipilih sebagai pilihan 
-pertama, namun harus mempertimbangkan risiko 
-peningkatan berat badan. P emberian obat ini juga 
-harus diperhatikan pada pasien gagal jantung karena 
-dapat menyebabkan retensi cairan. Obat ini terbatas 
-ketersediaannya, terutama di fasilitas kesehatan 
-tingkat pertama.  
-f) Penghambat DPP -4 dapat digunakan sebagai obat 
-pilihan pada lini pertama karena risiko hipoglikemianya
+gagal jantung dan penyakit ginjal kronik, maka untuk kombinasi dengan metformin pertimbangkan SU 
+generasi terbaru dengan risiko hipoglikemia yang 
+rendah, atau TZD, atau acarbose. Bila pasien sudah 
+mendapatkan kombinasi 3 obat  hipoglikemik oral 
+namun tidak mencapai target HbA1c < 7% maka 
+dimulai terapi kombinasi dengan insulin atau 
+pertimbangkan kombinasi dengan penghambat DPP -4 
+atau penghambat SGLT -2. 
+b) Permasalahan berat badan  
+Bila masalah peningkatan berat badan menjadi 
+pertimbangan utama, maka selain pemberian terapi 
+metformin dapat digunakan obat dengan risiko paling 
+rendah terhadap peningkatan berat badan ( weight 
+neutral ) seperti penghambat DPP -4, penghambat SGLT -
+2 dan agonis GLP -1. 
+c) Risiko hipoglikemia  
+Pada pa sien yang rentan terhadap risiko hipoglikemia 
+maka untuk kombinasi dengan metformin 
+pertimbangkan obat dengan risiko hipoglikemia rendah

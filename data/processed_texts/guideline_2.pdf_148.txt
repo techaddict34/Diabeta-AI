@@ -1,21 +1,14 @@
--55- 
- 
-darah post prandial 176 mg/dL. HbA1c > 9% setara dengan 
-rerata glukosa darah sewaktu ≥ 212 mg/dL. 
-1) Pertimbangan pemilihan obat monoterapi  
-a) Metformin dianjurkan sebagai obat pilihan pertama 
-pada sebagian besar pasien DM tipe 2. Pemilihan ini 
-dengan alasan atau pertimbangan sebagai berikut : 
-(1) Efektivitasnya relatif baik; 
-(2) Efek samping hipoglikemianya rendah; 
-(3) Netral terhadap peningkatan berat badan; 
-(4) Memperbaiki luaran kardiovaskular; 
-(5) Harganya murah. 
-b) Jika karena sesuatu hal, metformin tidak bisa 
-diberikan, misalnya karena alergi, atau efek samping 
-gastrointestinal yang tidak dapat ditoleransi oleh 
-pasien, maka dipilih obat lainnya sesuai dengan 
-keadaan pasien dan ketersediaan. 
-c) Sulfonilurea dapat dipilih sebagai obat pertama jika ada 
-keterbatasan biaya, obat tersedia di fasilitas kesehatan 
-dan pasien tidak rentan terhadap hipoglikemia.
+-56- 
+ pada pasien dengan penyakit kardiovaskular 
+aterosklerotik (PKVAS) atau memiliki risiko tinggi untuk 
+mengalami PKVAS, gagal jantung atau penyakit ginjal kronik. Pemilihan obat ini juga harus mempertimbangkan ketersediaan dan harga.  
+h) Obat golongan agonis reseptor GLP -1 merupakan 
+pilihan pada pasien deng an PKVAS atau memiliki risiko 
+tinggi untuk mengalami PKVAS atau penyakit ginjal kronik. Pemilihan obat ini juga harus 
+mempertimbangkan ketersediaan dan harga.  
+2) Pertimbangan dalam memilih terapi kombinasi obat hipoglikemik oral  
+a) Permasalahan biaya  
+Bila harga  obat atau pembiayaan menjadi 
+pertimbangan utama, dan tidak terdapat komorbid 
+penyakit kardiovaskular aterosklerotik (penyakit jantung koroner, stroke dan penyakit arteri perifer), 
+gagal jantung dan penyakit ginjal kronik, maka untuk kombinasi dengan metformin pertimbangkan SU

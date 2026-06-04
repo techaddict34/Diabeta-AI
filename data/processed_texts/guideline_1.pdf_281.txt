@@ -1,15 +1,1 @@
- Golongan obat ini memiliki efek samping infeksi saluran kemih dan infeksi 
-genital, serta risiko ket oasidosis dan dehidrasi yang merupakan masalah 
-yang sangat terkait selama bulan Ramadan.  
- Penggunaan obat ini dianjurkan saat berbuka puasa namun tidak perlu 
-penyesuaian dosis, dan dianjurkan mengkonsumsi cairan dalam jumlah 
-yang cukup.  
-6. Penghambat DPP-4 
- DPP-4 adalah enzim yang dengan cepat memetabolisme GLP -1. 
-Pemberian penghambat DPP -4 secara efektif dapat meningkatkan kadar 
-GLP-1 di dalam sirkulasi, sehingga merangsang insulin, namun tergantung 
-pada glukosa (glucose dependent).  
- Golongan obat ini, sepert i sitagliptin, vildagliptin, saxagliptin, alogliptin 
-dan linagliptin, yang diberikan secara oral sekali atau dua kali sehari, 
-merupakan salah satu obat antidiabetik dengan toleransi yang baik pada 
-pasien yang berpuasa dan risiko hipoglikemia yang rendah.
+.  x Penatalaksanaan TB pada pasien DM umumnya tidak berbeda dengan pasien TB tanpa DM, tidak ada bukti yang mendukung perlunya regimen baru ataupun penambahan masa pengobatan. Namun apabila kadar glukosa darah tidak terkontrol, maka lama pengobatan dapat dilanjutkan sampai 9 bulan. x Pasien dengan TB direkomendasikan untuk mendapatkan skrining diabetes dengan pemeriksaan kadar glukosa darah saat diagnosis TB ditegakkan. x Perlu diperhatikan penggunaan rifampisin karena akan mengurangi efektivitas obat oral antidiabetik (golongan sulfonilurea) sehingga diperlukan monitoring kadar glukosa darah lebih ketat atau diganti dengan anti diabetik lainnya seperti insulin yang dapat meregulasi glukosa darah dengan baik tanpa memengaruhi efektifitas OAT. x Hati-hati dengan penggunaan etambutol, karena pasien DM sering mengalami komplikasi pada mata

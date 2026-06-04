@@ -1,8 +1,1 @@
-PEDOMAN PENGELOLAAN DAN PENCEGAHAN DIABETES MELITUS TIPE 2 
-DEWASA DI INDONESIA - 2021 PERKENI 
- 
-40 
-Perkumpulan Endokrinologi Indonesia 
- 
-Gambar (4A) Algoritma Inisiasi dan Intensifikasi Pengobatan Injeksi pada Pasien DM Rawat Jalan yang Tidak Tekontrol dengan Kombinasi 
-OHO, dan (4B) Pasien DM Baru Rawat Jalan dengan Dekompensasi Metabolik
+.  Penggunaan GLP-1 RA pada Diabetes   GLP-1 RA adalah obat yang disuntikkan secara subkutan untuk menurunkan kadar glukosa darah, dengan cara meningkatkan jumlah GLP-1 dalam darah. Berdasarkan cara kerjanya golongan obat ini dibagi menjadi 2 yakni kerja pendek dan kerja panjang. GLP-1 RA kerja pendek memiliki waktu paruh kurang dari 24 jam yang diberikan sebanyak 2 kali dalam sehari, contohnya adalah exenatide, sedangkan GLP-1 RA kerja panjang diberikan 1 kali dalam sehari, contohnya adalah liraglutide dan lixisenatide, serta ada sediaan yang diberikan 1 kali dalam seminggu yaitu exenatide LAR, dulaglutide dan semaglutide.   Dosis berbeda untuk masing-masing terapi, dengan dosis minimal, dosis tengah, dan dosis maksimal. Penggunaan golongan obat ini dititrasi perminggu hingga mencapai dosis optimal tanpa efek samping dan dipertahankan

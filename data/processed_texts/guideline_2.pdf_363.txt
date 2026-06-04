@@ -1,14 +1,7 @@
-merupakan pilihan utama dalam kontrol glikemik. Pada pasien yang 
-dirawat di ICU, pemberian insulin intravena  umumnya lebih menjadi 
-pilihan. Pada pasien dengan kadar glukosa darah yang stabil maka dapat 
-dilanjutkan dengan pemberian insulin subkutan. Perlu diperhatikan risiko 
-hiperglikemia pada transisi terapi insulin intravena ke subkutan.  
-Pemberian insulin secara sliding scale sangat tidak disarankan. Pemberian 
-insulin subkutan berupa insulin basal, prandial, dan koreksi lebih 
-direkomendasikan karena lebih fisiologis. 
-Rekomendasi Pengelolaan Hiperglikemia di Unit Rawat Intensif: 
-Langkah 1: Lakukan pengkajian terhadap risiko terjadinya hiperglikemia 
-1. Identifikasi faktor-faktor yang dapat meningkatkan glukosa darah :  
-a. Riwayat diabetes melitus 
-b. Nutrisi parental total/parsial 
-c. Obat-obatan: kortikosteroid, atipikal antipsikotik (misalnya
+darah bisa segera dimulai  
+b. Jika tidak mempunyai riwayat diabetes maka dilakukan 
+pemeriksaan glukosa darah konfirmasi di waktu berbeda  
+5. Saat ini standar baku protokol pemberian infus insulin intravena belum ada, masing -masing institusi dapat membuat protokol sendiri 
+karena sangat tergantung pada kemampuan dan fasilitas setempat  
+6. Saat ini standar baku protokol pemberian infus insulin intravena belum ada, masing masing institusi dapat membuat protokol sendiri karena sangat tergant ung pada kemampuan dan fasilitas setempat  
+7. Salah satu contoh protokol infus insulin intravena adalah modifikasi

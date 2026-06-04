@@ -1,14 +1,23 @@
-Tabel 2. Klasifikasi kelas rekomendasi 
-Kualitas Bukti Keterangan 
-A Berdasar pada peringkat  bukti 1 sehingga 
-prosedur/terapi sangat direkomendasikan 
-B Berdasar pada peringkat  bukti 2 sehingga 
-prosedur/terapi direkomendasikan untuk dilakukan 
-C Berdasar pada peringkat bukti 3 sehingga 
-prosedur/terapi dapat dilakukan 
-D Berdasar pada peringkat  bukti 4 sehingga 
-prosedur/terapi dapat dipertimbangkan 
- 
-Indonesia sampai saat ini belum menetapkan derajat rekomendasi 
-berdasarkan bukti penelitian sendiri, oleh sebab i tu derajat rekomendasi 
-yang akan digunakan pada pedoman ini mengacu dari ADA 2019.
+perjalanan penyakit dapat terjadi gangguan sekresi 
+insulin yang progresif.  
+Diabetes 
+melitus tipe 
+lain a. Sindroma Diabetes Monogenik, seperti maturity -
+onset diabetes of the young (MODY)  
+b. Gangguan pada kelenjar eksokrin pankreas 
+misalnya fibrosis kistik, pankreatitis, dan lain -
+lain.  
+c. Endokrinopati  
+d. Diabetes k arena obat atau zat  kimia  misalnya 
+glukokortikoid, obat anti retroviral (ARV) untuk 
+pasien AIDS, pasca transplantasi organ  
+e. Infeksi  
+f. Sebab imunologi yang  jarang  
+Sindrom genetik lain yang berkaitan dengan  DM 
+Diabetes 
+melitus 
+gestasional  Diabetes melitus yang didiagnosis pada saat 
+trimester kedua atau ketiga kehamilan, dan tidak 
+diketahui sebelum hamil  
+DM tipe 1 dan tipe 2 merupakan penyakit yang heterogen karena 
+manifestasi klinis dan perjalanan penyakit dapat bervariasi.

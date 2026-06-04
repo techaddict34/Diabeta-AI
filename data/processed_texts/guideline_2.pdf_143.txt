@@ -1,19 +1,16 @@
--53- 
- 
-22.00, kemudian dilakukan evaluasi dosis tersebut dengan 
-menilai kadar glukosa darah puasa keesokan harinya. Pada 
-keadaan di mana kadar glukosa darah sepanjang hari masih 
-tidak terkendali meskipun sudah mendapat insulin basal, 
-maka perlu diberikan terapi kombinasi insulin basal dan 
-prandial. Obat antihiperglikemia oral dapat dilanjutkan bila 
-penggunaan insulin prandial hanya satu kali, tapi harus 
-dihentikan bil a menggunakan insulin prandial 2 -3 kali 
-sehari. Pada keadaan tertentu pemberian insulin basal dan 
-prandial dapat dikombinasikan dengan metformin atau 
-SGLT-2 inhibitor atau agonis GLP -1, dengan tujuan untuk 
-mencegah peningkatan berat badan akibat insulin.
- 
-e. Individualisasi Terapi 
-Manajemen diabetes melitus harus bersifat individual. Pelayanan 
-yang diberikan berbasis pada individu dimana keinginan, 
-kebutuhan, dan kemampuan pasien menjadi komponen penting
+terhadap metformin, maka diberikan obat lain seperti tabel 
+lini pertama yang ditambah dengan obat lain dengan 
+mekanisme kerja yang berbeda.  
+c) Kombinasi 3 obat perlu diberikan bila pasien sudah  
+mendapat terapi 2 macam obat selama 3 bulan namun tidak 
+mencapai target HbA1c < 7%  
+d) Untuk pasien dengan HbA1c saat diperiksa > 9% namun 
+tanpa disertai dengan gejala dekompensasi metabolik atau 
+penurunan berat badan yang cepat, maka boleh diberikan 
+terapi k ombinasi 2 atau 3 obat, yang terdiri dari metformin 
+(atau obat lain pada lini pertama bila ada intoleransi 
+terhadap metformin) ditambah obat dari lini ke 2.  
+e) Untuk pasien dengan HbA1c saat diperiksa > 9% dengan 
+disertai gejala dekompensasi metabolik maka di berikan 
+terapi kombinasi insulin dan obat hipoglikemik lainnya.  
+f) Pasien yang telah mendapat terapi kombinasi 3 obat dengan

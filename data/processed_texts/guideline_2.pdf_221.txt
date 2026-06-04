@@ -1,14 +1,11 @@
-Derajat Karakteristik 
-0 Kulit kaki intak, dapat disertai deformitas atau selulitis 
-1 Ulkus superfisial pada kulit dan jaringan subkutan 
-2 Ulkus meluas ke ligamen, tendon, kapsul sendi atau fasia 
-dalam tanpa adanya abses atau osteomielitis 
-3 Ulkus dalam dengan osteomielitis atau abses 
-4 Gangren pada sebagian kaki bagian depan atau tumit 
-5 Gangren ekstensif yang melingkupi seluruh kaki. 
-Pengawasan perbaikan luka dengan infeksi dapat dilakukan dengan 
-penilaian karakteristik ulkus yaitu ukuran, kedalaman, penampakan, 
-dan lokasi. Ukuran luka dapat dinilai dengan teknik  planimetri. 
-Klasifikasi infeksi pada kaki diabetes dapat ditentukan tanpa 
-pemeriksaan penunjang, yaitu berdasarkan manifestasi klinis  sesuai 
-dengan yang tercantum di tabel 16.
+Terapi rehabilitasi medik untuk komplikasi diabetik seperti miopati, 
+neuropati dan artrop ati, dapat menggunakan berbagai modalitas 
+seperti laser ( high intensity  laser dan low intensity laser ), 
+elektrostimulasi (transcutaneous electro nerve stimulation, galvanic elctro stimulation, faradic electro stimulation, functional electro stimulation ), dan diatermi ( ultra sound diathermy, microwave 
+diathermy, short wave diathermy, infra red radiation).  
+a. Terapi sinar  
+1) High intensity laser treatment (HILT)  
+Indikasi aplikasi modalitas HILT pada komplikasi DM, antara lain pada ulkus diabetik dan keluhan nyeri neuropati, 
+yang dapat berlanjut terjadi penurunan fungsi tubuh. Terapi 
+laser intensitas tinggi (HILT) ini memiliki intensitas kekuatan 
+yang tinggi (3 kW)  dan panjang gelombang 1.064 nm yang

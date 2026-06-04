@@ -1,17 +1,1 @@
- Mengetahui apakah sasaran terapi telah tercapai  
- Melakukan penyesuaian dosis obat, bila belum tercapai sasaran 
-terapi. 
-Waktu pelaksanaan glukosa darah pada saat puasa, 1 atau 2 jam setelah 
-makan, atau secara acak berkala sesuai dengan kebutuhan. Frekuensi 
-pemeriksaan dilakukan setidaknya satu bulan sekali. 
- 
-b. Pemeriksaan HbA1c 
- 
-Tes hemoglobin terglikosilasi, yang disebut juga sebagai 
-glikohemoglobin, atau hemoglobin glikosilasi (disingkat sebagai HbA1c), 
-merupakan cara yang digunakan untuk menilai efek perubahan terapi 8 - 
-12 minggu sebelumnya. Untuk melihat hasil terapi dan rencana 
-perubahan terapi, HbA1c diperiksa setiap 3 bulan (E). Pada pasien yang 
-telah mencapai sasaran terapi disertai kendali glikemik yang stabil HbA1c 
-diperiksa paling sedikit 2 kali dalam 1 tahun (E). HbA1c tidak dapat 
-dipergunakan sebagai alat untuk evaluasi pada kondisi tertentu seperti:
+kurang nyaman karena harus menyuntikkan 2 obat sehingga dapat menurunkan tingkat kepatuhan pasien. Ko-formulasi rasio tetap insulin dan GLP-1 RA yang tersedia saat ini adalah IdegLira, ko-formulasi antara insulin degludeg dengan liraglutide dan IGlarLixi, ko-formulasi antara insulin glargine dan lixisenitide.   III.2.2.5 Prinsip Penatalaksanaan DM tipe 2  A. Algoritma Pengelolaan DM Tipe 2 Tanpa Dekompensasi Metabolik  Daftar obat dalam algoritme bukan menunjukkan urutan pilihan. Dalam pemilihan obat maupun menentukan target pengobatan selalu mempertimbangkan individualisasi dan pendekatan yang berpusat pada pasien (patient centered approach). Pertimbangan itu meliputi efek obat terhadap komorbiditas kardiovaskular dan renal, efektivitas penurunan glukosa darah, risiko hipoglikemia, efek terhadap peningkatan berat badan, biaya, risiko efek samping, ketersediaan, dan pilihan pasien

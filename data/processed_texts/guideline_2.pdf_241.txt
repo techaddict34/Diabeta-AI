@@ -1,16 +1,17 @@
-jaringan sampai kedalaman lebih dari 5 cm. Modalitas MWD 
-memiliki frekuensi 2456 Hz dan 915 MHz, dan efek 
-pemanasan terutama dihasilkan oleh medan elektrik. 
-Modalitas SWD memiliki frekuensi 10 -100 MHz, dan efek 
-pemanasan terutama dihasilkan oleh medan magnetik.  
-2) Ultrasound diathermy (USD) 
-Modalitas diatermi yang menggunakan gelombang suara 
-dengan frekuensi 800 KHz -1MHz. Gelombang suara 
-ditransfer ke jaringan tubuh melalui media yang sesuai 
-seperti air atau jeli. Gelombang suara ultra menyebar pada 
-jaringan tubuh secara longitudinal, kemudian diabsorbsi 
-jaringan dan berubah menjadi energi panas. Besaran 
-absorbsi pada tiap jaringan berbeda, y aitu sangat sedikit 
-diabsorbsi pada jaringan lemak, diabsorbsi moderat pada 
-jaringan otot, dan diabsorbsi paling banyak pada jaringan 
-tulang. Kedalaman penetrasi adalah 7 cm.
+-89- 
+ (ABI), yaitu rasio tekanan darah sistolik antara arteri dorsalis 
+pedis/tibialis posterior dengan tekanan sistolik tertinggi antara arteri 
+brachialis kiri dan kanan. Pemeriksaan dilakukan dengan 
+menggunakan handheld ultrasound . Penilaian hasil ABI adalah  dapat 
+dilihat di Tabel 17.  
+Tabel 18. Penilaian hasil  pemeriksaan ankle brachial index (ABI)  
+Nilai ABI  Keterangan  
+≤0,4 PAD berat ( Critical Limb Ischaemia ) 
+0,40-0,69 PAD sedang  
+0,7-0,90 PAD ringan  
+0,9-1,30 Normal  
+>1,30  Arteri sklerotik dan memerlukan pemeriksaan lanjutan  
+Pasien dengan PAD sebaiknya dievaluasi mengenai riwayat klaudikasio dan pemeriksaan pulsasi pedis. Perlu dipertimbangkan 
+pemeriksaan ABI karena banyak pasien PAD adalah asim ptomatik . 
+Pemeriksaan PAD dapat dilaku kan di pusat dengan sarana memadai 
+untuk pemeriksaan USG d oppler duplex  dan angiografi.

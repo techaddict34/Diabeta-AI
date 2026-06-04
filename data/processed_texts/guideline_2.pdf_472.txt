@@ -1,16 +1,17 @@
-1. Setelah mendapat pengobatan selama 3 bulan dengan obat antidiabetik
-(OAD) tunggal maupun kombinasi, masih terdapat GDP > 80 mg/dL, GDPP
-> 140mg/dL atau HbA1c > 6.5 %
-2. Setelah mendapat pengobatan selama 3 bulan dengan OAD tunggal belum
+6.Setelah mendapat pengobatan selama 3 bulan dengan OAD tunggal belum
 mencapai target
-3. Setelah mendapat pengobatan selama 3 bulan dengan OAD kombinasi
+7.Setelah mendapat pengobatan selama 3 bulan dengan OAD kombinasi
 belum mencapai target
-4. Dislipidemia
-5. Hipertensi
-6. Anemia
-7. Komplikasi kronis akibat diabetes  seperti retinopati, nefropati
-8. Usia lanjut
-9. Kehamilan
-10. Krisis hiperglikemia
-11. Hipoglikemia yang tidak teratasi dan tidak ada perbaikan setelah tata
+8.Dislipidemia, hipertensi, ane mia, infeksi  yang tidak terkendali dalam 3
+bulan
+9.Kehamilan dengan gula darah tak terkontrol dalam 3 bulan
+10.Infeksi kaki seperti ulkus, selulitis atau abses yang tidak teratasi dalam 7
+hari
+Indikasi rujukan dari PPK II ke PPK III bila pada pasien DM tipe 2 di PPK II 
+terdapat salah satu hal hal sebagai berikut:  
+1.Diabetes dengan tanda  unstable  angina
+2.Hipoglikemia yang tidak teratasi dan tidak ada perbaikan setelah tata
 laksana medis
+3.Komplikasi  akut seperti ketoasidosis, hiperglikemik hiperosmolar non -
+ketoti k setelah diberikan tindakan awal
+4.Setelah 3 bulan pengobatan dengan OAD tunggal maupun kombinasiterdapat GDP > 80 mg/dL, GDPP > 140mg/dL atau HbA1c > 6.5 %

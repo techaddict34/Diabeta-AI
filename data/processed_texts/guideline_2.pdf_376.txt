@@ -1,12 +1,31 @@
-1 atau untuk pasien yang menerima terapi kortikosteroid, atau 
-diabetes melitus yang sebelumnya mendapat >80 unit insulin per 
-hari di rawat jalan 
-c. Algoritme 3: untuk pasien yang tidak terkontrol dengan algoritme 
-2, untuk  memulai algoritme 3 sebaiknya lakukan konsultasi 
-dengan ahli endokrinologi 
-d. Algoritme 4: apabila pasien tidak terkontrol dengan algoritme 3, 
-gunakan algoritme 4 dan untuk lakukan algoritme ini sebaiknya 
-di supervisi langsung oleh ahli endokrinologi. 
-4. Pindah dari satu algoritme satu ke algoritme lainnya:  
-a. Naik ke algoritme selanjutnya bila nilai glukosa masih di luar 
-target setelah titrasi insulin
+241-300 4 infus insulin tambah 1 
+unit/jam  infus insulin tambah 1,2 
+unit/jam  
+301-360 5 infus insulin tambah 1,5 
+unit/jam  infus insulin tambah 1,8 
+unit/jam  
+361-420 6 infus insulin tambah 2 
+unit/jam  infus insulin tambah 2,5 
+unit/jam  
+421-480 8 infus insulin tambah 3 
+unit/jam  infus insulin tambah 4 
+unit/jam  
+Tabel 31. Protokol Insulin Infus Modifikasi Northwern jika GD turun  
+Nilai glukosa 
+darah saat ini  Perubahan dari glukosa darah sebelumnya  
+terjadi penurunan  
+<70 mg/dL 
+(hipoglikemia)  Lihat protokol hipoglikemia  
+ Penurunan <60 
+mg/dL  Bolus insulin  Penurunan >60 mg/dL  
+70-80 Stop infus insulin  Stop bolus  Stop infus insulin  
+81-110 Kecepatan infus 
+tetap  Stop bolus  Infus insulin dikurangi 
+50% dari dosis 
+sebelumnya  
+111-180 infus insulin 
+tambah 0,3 
+unit/jam  Stop bolus  Infus insulin dikurangi 
+30% dari dosis 
+sebelumnya  
+181-240 infus insulin

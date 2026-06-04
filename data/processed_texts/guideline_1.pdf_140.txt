@@ -1,18 +1,1 @@
-PEDOMAN PENGELOLAAN DAN PENCEGAHAN DIABETES MELITUS TIPE 2 
-DEWASA DI INDONESIA - 2021 PERKENI 
- 
-34 
-Perkumpulan Endokrinologi Indonesia 
- 
-x Jika karena sesuatu hal, metformin tidak bisa diberikan, misalnya karena 
-alergi, atau efek samping gastrointestinal yang tidak dapat ditole ransi 
-oleh pasien, maka dipilih obat lainnya sesuai dengan keadaan pasien dan 
-ketersediaan. 
-x Sulfonilurea dapat dipilih sebagai obat pertama jika ada keterbatasan 
-biaya, obat tersedia di fasilitas kesehatan dan pasien tidak rentan 
-terhadap hipoglikemia. 
-x Acarbose dapat digunakan sebagai alternatif untuk lini pertama jika 
-terdapat peningkatan kadar glukosa prandial yang lebih tinggi 
-dibandingkan kadar glukosa puasa. Hal ini biasanya terjadi pada pasien 
-dengan asupan karbohidrat yang tinggi.  
-x Thiazolidinedione dapat juga dipilih sebagai pilihan pertama, namun
+. Penghambat DPP-4 akan menghambat lokasi pengikatan pada DPP-4 sehingga akan mencegah inaktivasi dari glucagon-like peptide (GLP)-1. Proses inhibisi ini akan mempertahankan kadar GLP-1 dan glucose-dependent insulinotropic polypeptide (GIP) dalam bentuk aktif di sirkulasi darah, sehingga dapat memperbaiki toleransi glukosa, meningkatkan respons insulin, dan mengurangi sekresi glukagon. Penghambat DPP-4 merupakan agen oral, dan yang termasuk dalam golongan ini adalah vildagliptin, linagliptin, sitagliptin, saxagliptin dan alogliptin.  e. Penghambat enzim Sodium Glucose co-Transporter 2  Obat ini bekerja dengan cara menghambat reabsorpsi glukosa di tubulus proksimal dan meningkatkan ekskresi glukosa melalui urin.  Obat golongan ini mempunyai manfaat untuk menurunkan berat badan dan tekanan darah

@@ -1,11 +1,12 @@
-adalah jenis radiasi elektromagnetik, yang memiliki panjang 
-gelombang antara 780 nm sampai 1000 mikrometer. 
-Terdapat tiga jenis IRR, yaitu IRR pendek dengan panjang 
-gelombang 0,78 -3,0 mikro meter, IRR sedang dengan 
-panjang gelombang 3 ,0-50,0 mikro meter, dan IRR jauh 
-dengan panjang gelombang 50 ,0-1000,0 mikrometer, 
-berdasarkan standar ISO 20473:20007. 
-b. Stimulasi elektrik  
-1) Electro stimulation (ES)  
-Indikasi pemberian modalitas elektrostimulasi pada 
-komplikasi DM, yaitu neuropati, miopati, artropati dan
+diaplikasikan dalam waktu yang singkat. Intens TENS 
+digunakan untuk me nstimulasi saraf noksius diameter kecil 
+dan memiliki ambang rangsang tinggi (A -delta), sehingga 
+terjadi blokade transmisi nosiseptif pada saraf perifer. Selain 
+itu dapat juga memberi efek anti iritasi, sehingga digunakan 
+sebelum perawatan luka.  
+c. Diatermi (p emanasan dalam)  
+Mekanisme kerja modalitas diatermi adalah menghasilkan energi panas yang memiliki efek terapi pada spindel otot sehingga 
+menurunkan spasme otot. Ketika suhu spindel otot meningkat, 
+aktivitas mekanisme yang menyampaikan informasi peregangan statis ke sumsum tulang belakang akan berkurang. Pada saat 
+yang sama, luaran  organ tendon Golgi meningkat, mencegah 
+kontraksi otot yang berlebihan. Hal ini akan memberi pengaruh pada kornu anterior tulang medula spinalis, yaitu inhibisi alfa

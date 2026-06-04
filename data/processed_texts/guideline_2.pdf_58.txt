@@ -1,38 +1,17 @@
--23- 
- 
-Kebutuhan energi total dapat juga diperkirakan dengan 
-menghitung kebutuhan energi basal (KEB) 
-menggunakan rumus Harris Benedict yang dikoreksi  
-dengan faktor stres dan faktor aktivitas pasien.  
-Laki-laki.  
-KEB = 66,5 + (13,8 x BB dalam kg) + (5 x TB dalam 
-cm) – (6,8 x usia dalam tahun) 
-Perempuan.  
-KEB = 665 + (9,6 x BB dalam kg) + (1,8 x TB dalam 
-cm) – (4,7 x usia dalam tahun) 
-Tabel 8. Klasifikasi faktor aktivitas fisis 
-Kelompok 
-Aktivitas 
-Jenis Kegiatan Faktor 
-Aktivitas 
-RINGAN 
-75% waktu = 
-duduk/berdiri 
-25% waktu = 
-berdiri/bergerak 
-1,3 
-SEDANG 
-25% waktu = 
-duduk/berdiri 
-75% waktu = aktivitas 
-perkerjaan tertentu 
-1,50 
-BERAT 
-40% waktu = 
-duduk/berdiri 
-60% waktu = aktivitas 
-pekerjaan tertentu 
-1,70 
-Faktor stres:  
-Bedah minor 1.1- 1.3; bedah mayor 1.5; infeksi ringan 
-1.2-1.3, infeksi sedang 1.4; s epsis 1.5-2; gagal jantung
+-24- 
+ atau obes sehingga upaya pengelolaan BB dan penurunan 
+BB penting dilakukan dan perlu dipantau berulang untuk 
+mendukung tercapainya target terapi. B ukti yang kuat dan 
+konsisten  menunjukkan  bahwa penurunan BB yang 
+persisten dapat menghambat progresivitas penyakit 
+diabetes, dan menurunkan HbA1c  sebesar 0 ,3% sampai 
+2,0%, yang sejalan dengan penurunan dosis obat dan 
+perbaikan kualitas hidup pasien. Pada pasien diabetes obes 
+yang berhasil menuru nkan  BB minimal 5 -10% dari BB awal  
+akan mengalami perbaikan sensitivitas insulin, kontrol 
+glikemik, profil lipid dan tekanan darah.   
+Penurunan BB dapat dicapai melalui program perbaikan 
+gaya hidup dengan memperhatikan total kalori yang masuk . 
+Total energi dari anal isis asupan sebelumnya dikurangi 500 -
+750 kkal/hari; atau total energi harian berkisar 1200 -1500 
+kkal/hari untuk perempuan dan 1500- 1800 kkal/hari

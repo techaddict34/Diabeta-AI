@@ -1,21 +1,20 @@
-fisiologis terdiri dari sekresi insulin basal dan sekresi 
-insulin prandial. Terapi insulin diupayakan mampu 
-meniru pola sekresi insulin yang fisiologis. Defisiensi 
-insulin yang terjadi pasien DM tipe 2 umumnya dimulai 
-dengan defisiensi insulin basal yang menyebabkan 
-timbulnya hiperglikemia pada keadaan puasa, namun 
-dengan perjalanan penyakit dapat terjadi defisiensi 
-insulin prandial sehingga tejadi pula ke adaan 
-hiperglikemia setelah makan. Terapi insulin untuk 
-substitusi ditujukan untuk melakukan koreksi 
-terhadap defisiensi yang terjadi.  
-Insulin diperlukan pada keadaan:
+-43- 
+ pembuatannya berbeda dengan originatornya.  
  
-(1) Ketoasidosis diabetik 
-(2) Hiperglikemia hiperosmolar non ketotik 
-(3) Hiperglikemia dengan asidosis laktat 
-(4) Stres berat (infeksi sistemik, operasi besar, infark 
-miokard akut, stroke) 
-(5) Kehamilan dengan DM atau diabetes melitus 
-gestasional (DMG) yang tidak terkendali dengan 
-perencanaan makan
+Berdasarkan lama kerja, insulin terbagi menjadi 9 jenis, 
+yakni:  
+(1) Insulin kerja pendek ( short  acting insulin ) 
+(2) Insulin kerja cepat ( rapid  acting insulin ) 
+(3) Insulin kerja sangat cepat ( ultra-fast acting insulin ) 
+(4) Insulin kerja menengah ( intermediate  acting 
+insulin ) 
+(5) Insulin kerja panjang ( long acting insulin ) 
+(6) Insulin kerja ultra panjang ( ultra-long acting 
+insulin ) 
+(7) Insulin campuran tetap, kerja pendek dan 
+menengah ( mixtard ) 
+(8) Insulin campuran tetap, kerja cepat dan menengah (premixed insulin ) 
+(9) Insulin campuran tetap, kerja cepat dan ultra 
+panjang ( co-formulation insulin ) 
+Efek samping utama terapi insulin adalah terjadinya 
+hipoglikemia (penatalaksanaan hipoglikemia dapat

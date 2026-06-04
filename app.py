@@ -1,11 +1,11 @@
 import os
 from dotenv import load_dotenv
 
-# forces cloud data pipeline to compile first
-print("--- STARTING CLOUD DATA PIPELINE ---")
-os.system("python notebooks/loadData.py")
-os.system("python notebooks/vectorEmbed.py")
-print("--- CLOUD DATA PIPELINE COMPLETE ---")
+if not os.path.exists("vector_db"):
+    print("--- vector_db not found, building data pipeline ---")
+    os.system("python notebooks/loadData.py")
+    os.system("python notebooks/vectorEmbed.py")
+    print("--- data pipeline complete ---")
 
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import FileResponse

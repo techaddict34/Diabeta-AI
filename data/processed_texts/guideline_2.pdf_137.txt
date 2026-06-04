@@ -1,34 +1,14 @@
--51- 
- 
-Insulin basal + oral anti diabetik 
-GDP 80-130 mg/dL  
-akan tetapi HbA1c > 7% 
-Insulin basal + oral anti diabetik 
-(tunda insulin sekretagog) 
-+ agonis reseptor GLP- 1 dosis 
-terendah 
-(dosis sesuai agonis reseptor GLP-1 
-Insulin basal + OAD + 
- titrasi  agonis reseptor GLP-1 tiap 
-minggu h ingga dosis maksimal yang 
-bisa ditoleransi d an pertahankan 
-Insulin basal + Insulin bolus 
-1x pad a porsi makan  
-terbesar 
-Insulin premixed 2x 
-Sesuaikan dengan 
-algoritme intensifikasi 
-terapi injeksi 
-Sesuaikan dengan 
-algoritme 
-intensifikasi terap i 
-injeksi 
-Bila muncul efek samping dengan 
-dosis maksimal, kemb ali ke dosis 
-sebelumnya dan dipertahankan 
-Bila HbA1c belum mencap ai target, 
-ganti ke insulin b asal bolus 
-sarapan. 
-IGlarLixi adalah kombinasi rasio glargine dan 
-lixisenatide insulin, yang mengandung 100 U/mL 
-glargine dan 33 lg/mL lixisenatide dalam pena injeksi 3
+-52- 
+  
+Gambar 2. Algoritma intensifikasi terapi injeksi pada DM tipe 2  
+3) Terapi kombinasi  
+Pemberian obat antihiperglikemia oral maupun insulin 
+selalu dimulai dengan dosis rendah, untuk kemudian dinaikkan secara bertahap sesuai dengan responss kadar 
+glukosa darah. Pengaturan diet dan k egiatan jasmani 
+merupakan hal yang utama dalam penatalaksanaan DM, 
+namun bila diperlukan dapat dilakukan pemberian obat 
+antihiperglikemia oral tunggal atau kombinasi.  
+Intensifikasi pengobatan untuk pasien DM tipe 2 yang tidak mencapai target pengobatan ti dak boleh ditunda dan harus 
+segera dilakukan.  Terapi kombinasi dapat pula 
+dipertimbangkan pada pasien DM tipe 2 yang baru terdiagnosa namun dengan HbA1c ≥1,5% (12,5 mmol/mol) di atas target glikemiknya.  Terapi dengan obat antihiperglikemia oral kombinasi baik 
+secara terpisah ataupun fixed dose combination dalam

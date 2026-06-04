@@ -1,40 +1,16 @@
-unit/jam 
-infus insulin tambah 1,2 
-unit/jam 
-301-360 5 infus insulin tambah 1,5 
-unit/jam 
-infus insulin tambah 1,8 
-unit/jam 
-361-420 6 infus insulin tambah 2 
-unit/jam 
-infus insulin tambah 2,5 
-unit/jam 
-421-480 8 infus insulin tambah 3 
-unit/jam 
-infus insulin tambah 4 
-unit/jam 
-Tabel 31. Protokol Insulin Infus Modifikasi Northwern jika GD turun 
-Nilai glukosa 
-darah saat ini 
-Perubahan dari glukosa darah sebelumnya  
-terjadi penurunan 
-<70 mg/dL 
-(hipoglikemia) Lihat protokol hipoglikemia 
- Penurunan <60 
-mg/dL 
-Bolus insulin Penurunan >60 mg/dL  
-70-80 Stop infus insulin  Stop bolus Stop infus insulin  
-81-110 Kecepatan infus 
-tetap 
-Stop bolus Infus insulin dikurangi 
-50% dari dosis 
-sebelumnya 
-111-180 infus insulin 
-tambah 0,3 
-unit/jam 
-Stop bolus Infus insulin dikurangi 
-30% dari dosis 
-sebelumnya 
-181-240 infus insulin 
-tambah 0,5 
-unit/jam
+Prinsip terapi KAD dan SHH terdiri dari pemberian cairan, terapi 
+insulin, koreksi kalium dan bikarbonat.  
+a. Cairan  
+Pada SHH terdapat kekurangan natrium 5 -13 mmol/kgBB sesuai 
+dengan kehilangan cairan 100 -200 mL/kgBB. Pada KAD terjadi 
+kekur angan natrium 7 -10 mmol/kgBB sesuai dengan kehilangan 
+cairan 100 mL/kgBB. Pemberian cairan intravena harus memperhatikan risiko terjadinya edema serebri. Pada dewasa, 
+pemberian cairan umumnya diawali dengan infus NaCl 0,9% 1- 2 
+L/jam untuk mengatasi syok at au 500 mL/jam selama 4 jam, 
+kemudian dilanjutkan 250 mL/jam.
+  
+b. Koreksi kalium  
+Pada SHH terdapat kekurangan kalium 4- 6 mmol/kg BB dan 
+KAD sebesar 2 -5 mmol/kg BB. Pada pasien dengan normo atau 
+hipokalemi, kalium harus segera diberikan secara intravena 10 -
+40 m mol/L dengan kecepatan maksimum 40 mmol/jam. Pada

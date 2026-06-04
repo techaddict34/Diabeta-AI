@@ -1,40 +1,30 @@
--22- 
- 
-massa tubuh menggambarkan  secara umum massa 
-lemak tubuh seseorang, yang berhubungan dengan 
-berbagai risiko komorbiditas termasuk dengan DM tipe 
-2. Angka IMT (kg/m2) ini didapatkan dengan membagi 
-berat badan (kg) dengan tinggi badan dalam meter 
-dikuadratkan (m2).  
-Berdasarkan peneli tian didapatkan  bahwa etnis 
-mempengaruhi komposisi lemak, sehingga pada IMT 
-yang sama, bisa terdapat perbedaan persentase lemak.  
-Tabel 7. Klasifikasi indeks massa tubuh orang Asia 
-dewasa 
-Klasifikasi 
-IMT 
-(kg/m
-2) 
-Risiko berdasarkan lingkar 
-pinggang 
-<90 cm (laki -
-laki) 
-<80 cm 
-(perempuan) 
-≥90 cm (laki-
-laki) 
-≥80 cm 
-(perempuan) 
-Berat badan 
-kurang < 18,5 Rendah Cukup 
-Berat badan 
-normal 
-18,5-
-22,9 Cukup Meningkat 
-Berat badan 
-lebih ≥ 23   
-Berisiko 23-
-24,9 Meningkat Moderat 
-Obesitas I 25-
-29,9 Moderat Berat 
-Obesitas II ≥ 30 Berat Sangat berat
+-23- 
+ Kebutuhan energi total dapat juga diperkirak an dengan 
+menghitung kebutuhan energi basal (KEB) 
+menggunakan rumus Harris Benedict yang dikoreksi  
+dengan faktor stres dan faktor aktivitas pasien.  
+Laki-laki.  
+KEB = 66,5 + (13,8 x BB dalam kg) + (5 x TB dalam 
+cm) – (6,8 x usia dalam tahun)  
+Perempuan.  
+KEB = 665 + (9,6 x BB dalam kg) + (1,8 x TB dalam 
+cm) – (4,7 x usia dalam tahun)  
+Tabel 8. Klasifikasi f aktor aktivitas fisis 
+Kelompok  
+Aktivitas  Jenis Kegiatan  Faktor 
+Aktivitas  
+RINGAN  75% waktu = 
+duduk/berdiri  
+25% waktu = 
+berdiri/bergerak  1,3 
+SEDANG  25% waktu = 
+duduk/berdiri  
+75% waktu = aktivi tas 
+perkerjaan tertentu  1,50 
+BERAT  40% waktu = 
+duduk/berdiri  
+60% waktu = aktivitas 
+pekerjaan tertentu  1,70 
+Faktor stres:   
+Bedah minor 1.1- 1.3; bedah mayor 1.5; infeksi ringan 
+1.2-1.3, infeksi sedang 1.4; s epsis 1.5 -2; gagal jantung

@@ -1,17 +1,3 @@
-PEDOMAN PENGELOLAAN DAN PENCEGAHAN DIABETES MELITUS TIPE 2 
-DEWASA DI INDONESIA - 2021 PERKENI 
- 
-86 
-Perkumpulan Endokrinologi Indonesia 
- 
-Sindrom koroner akut (SKA) merupakan kegawatan medis yang diakibatkan 
-penurunan perfusi jaringan jantung akibat penyempitan hingga penyumbatan 
-arteri koroner. Pasien dengan SKA memberikan gambaran klinis nyeri dada 
-sebelah kiri yang menjalar ke area sekitar. Klasifikasi SKA ditentukan berdasarkan 
-gambaran EKG dan pemeriksaan laboratorium, yaitu SKA dengan elevasi segmen 
-ST ( ST-elevation myocardial infarction  / STEMI) dan SKA tanpa peningkatan 
-segmen ST (Non-ST segment elevation myocardial infraction/NSTEMI atau angina 
-pektoris tidak stabil/APS). 
- 
-Konsensus penatalaksanaan SKA dengan elevasi segmen ST oleh European Society of 
-Cardiology pada tahun 2012 menjelaskan bahwa target glukosa darah pasien harus
+Tabel 17. Klasifikasi PEDIS pada Ulkus Diabetik   Nilai  Interpretasi  Perfusion  0 Tidak ada PAD   1 PAD positif namun tidak ada CLI   2 CLI positif  Extent/size in mm3 0 Kulit intak   1 <1 cm2  2 1 ʹ 3 cm2  3 >3 cm2  Depth/tissue loss  0 Kulit intak   1 Superfisial, tidak sampai dermis   2 Ulkus dalam dibawah dermis melibatkan jaringan subkutan, 
+fascia, otot atau tendon  Derajat  Karakteristik  0 Kulit kaki intak, dapat disertai deformitas atau selulitis  1 Ulkus superfisial pada kulit dan jaringan subkutan  2 Ulkus  meluas  ke ligamen,  tendon,  kapsul  sendi atau  fasia  dalam tanpa 
+adanya abses atau osteomielitis  3 Ulkus dalam dengan osteomielitis atau abses  4 Gangren pada sebagian kaki bagian depan atau tumit  5 Gangren ekstensif yang melingkupi seluruh kaki.

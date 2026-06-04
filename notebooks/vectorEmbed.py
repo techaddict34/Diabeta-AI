@@ -1,5 +1,5 @@
 import os
-from langchain_community.embeddings import HuggingFaceHubEmbeddings as HuggingFaceInferenceAPIEmbeddings
+from langchain_community.embeddings import FastEmbedEmbeddings
 from langchain_community.vectorstores import FAISS
 from dotenv import load_dotenv
 
@@ -8,18 +8,12 @@ from dotenv import load_dotenv
 # 2) Embed Them into Vectors
 # 3) Store those Vectors into Database
 
-
 base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 env_path = os.path.join(base_dir, ".env")
 load_dotenv(dotenv_path=env_path)
 
 # use absolute path tracking instead of looking at text directory
 processed_dir = os.path.join(base_dir, "data", "processed_texts")
-
-hf_token = os.getenv("HF_TOKEN")
-
-if not hf_token:
-    raise ValueError("CRITICAL ERROR: HF_TOKEN not found. Please add it to your .env file.")
 
 def build_vector_db():
     if not os.path.exists(processed_dir):
@@ -40,10 +34,7 @@ def build_vector_db():
         return
 
     # convert texts to vector embeddings
-    embeddings = HuggingFaceInferenceAPIEmbeddings(
-        huggingfacehub_api_token=hf_token,
-        repo_id="sentence-transformers/all-MiniLM-L6-v2" # repo_id is model_name
-    )
+    embeddings = FastEmbedEmbeddings(model_name="BAAI/bge-small-en-v1.5")
 
     # do FAISS (Facebook AI Similarity Search)
     '''What FAISS does:

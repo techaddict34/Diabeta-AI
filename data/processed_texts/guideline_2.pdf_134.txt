@@ -1,21 +1,32 @@
--50- 
+-51- 
  
-glukosa darah daripada obat injeksi insulin.  
- 
-c) Kombinasi insulin basal dengan agonis reseptor  GLP-1 
-Manfaat insulin basal terutama adalah untuk 
-menurunkan glukosa darah puasa, sedangkan agonis 
-reseptor  GLP-1 menurunkan glukosa darah setelah 
-makan, dengan target akhir adalah menurunkan 
-HbA1c. Manfaat lain dari kombinasi insulin basal 
-dengan agonis resept or GLP-1 adalah risiko 
-hipoglikemia dan potensi peningkatan berat badan yang 
-rendah.  
-Kombinasi insulin basal dan agonis reseptor   GLP-1 
-dapat diberikan secara terpisah atau dengan kombinasi 
-dosis tetap ( fixed ratio combination ). Keuntungan 
-pemberian secar a terpisah adalah pengaturan dosis 
-yang fleksibel dan terhindar dari kemungkinan 
-interaksi obat, namun pasien kurang nyaman karena 
-harus menyuntikkan 2 obat sehingga dapat 
-mengakibatkan clinical inertia. Kombinasi tetap insulin
+Insulin basal + oral anti diabetik  
+GDP 80 -130 mg/dL  
+akan tetapi  HbA1c > 7%  
+Insulin basal + oral anti diabeti k 
+(tunda insulin sekretagog)  
++ agonis reseptor GLP- 1 dosis 
+terendah  
+(dosis sesuai agonis reseptor GLP -1 
+Insulin basal + OAD +  
+ titrasi  agonis reseptor G LP-1 tiap 
+minggu hingga dosis maksimal yang 
+bisa ditoleransi dan pertahankan  
+Insulin basal + Insulin bolus 
+1x pada porsi makan 
+terbesar  
+Insulin premixed 2x  
+Sesuaikan dengan 
+algoritme intensifikasi 
+terapi injeksi  
+Sesuaikan dengan 
+algoritme 
+intensifikasi terapi 
+injeksi  
+Bila muncul efek samping dengan  
+dosis maksimal, kembali ke dosis 
+sebelumnya dan dipertahankan  
+Bila HbA1c belum mencapai target, 
+ganti ke insulin basal bolus  sarapan . 
+IGlarLixi adalah kombinasi rasio glargine dan 
+lixisenatide insulin, yang mengandung 100 U/mL

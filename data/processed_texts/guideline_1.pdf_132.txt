@@ -1,15 +1,1 @@
-dosis insulin yang cukup kecil. Dosis awal insulin basal untuk kombinasi adalah 
-0,1 ʹ 0,2 unit/kgbb. kemudian dilakukan evaluasi dengan mengukur kadar 
-glukosa darah puasa keesokan harinya.  
- 
-Dosis insulin dinaikkan secara perlahan (pada umumnya 2 unit) apabila kadar 
-glukosa darah puasa belum mencapai target. Pada keadaaan kadar glukosa 
-darah sepanjang hari masih tidak terkendali meskipun sudah diberikan insulin 
-basal, maka perlu diberikan terapi kombinasi insulin basal dan prandial, 
-pemberian obat antihiperglikem ia oral terutama golongan Sulfonilurea 
-sebaiknya dihentikan dengan hati-hati. 
- 
-4.  Kombinasi Insulin Basal dengan GLP-1 RA 
-Manfaat insulin basal terutama adalah menurunkan glukosa darah puasa, 
-sedangkan GLP-1 RA akan menurunkan glukosa darah setelah makan, dengan 
-target akhir adalah penurunan HbA1c.
+. Terapi farmakologis terdiri dari obat oral (lampiran 1) dan bentuk suntikan.   1. Obat Antihiperglikemia Oral Berdasarkan cara kerjanya, obat anti-hiperglikemia oral dibagi menjadi 6 golongan:  a. Pemacu Sekresi Insulin (Insulin Secretagogue)   Sulfonilurea  Obat golongan ini mempunyai efek utama meningkatkan sekresi insulin oleh sel beta pankreas. Efek samping utama adalah hipoglikemia dan peningkatan berat badan. Hati-hati menggunakan sulfonilurea pada pasien dengan risiko tinggi hipoglikemia (orang tua, gangguan fungsi hati dan ginjal). Contoh obat dalam golongan ini adalah glibenclamide, glipizide, glimepiride, gliquidone dan gliclazide.   Glinid  Glinid merupakan obat yang cara kerjanya mirip dengan sulfonilurea, namun berbeda lokasi reseptor, dengan hasil akhir berupa penekanan pada peningkatan sekresi insulin fase pertama

@@ -1,13 +1,1 @@
-Complications Trial assay (DCCT) . (B) 
-Catatan: Saat ini tidak semua laboratorium di Indonesia memenuhi standard NGSP, sehingga harus hati -
-hati dalam membuat interpretasi terhadap hasil pemeriksaan HbA1c. Pada kondisi tertentu seperti: 
-anemia, hemoglobinopati, riwayat transfusi darah 2 - 3 bulan terakhir, kondisi-kondisi yang memengaruhi 
-umur eritrosit dan gangguan fungsi ginjal maka HbA1c tidak dapat dipakai sebagai alat diagnosis maupun 
-evaluasi. 
- 
-Hasil pemeriksaan yang tidak memenuhi kriteria normal atau kriteria DM 
-digolongkan ke dalam kelompok predi abetes yang meliputi toleransi glukosa 
-terganggu (TGT) dan glukosa darah puasa terganggu (GDPT).  
-x Glukosa Darah Puasa Terganggu (GDPT): Hasil pemeriksaan glukosa 
-plasma puasa antara 100 ʹ 125 mg/dL dan pemeriksaan TTGO glukosa  
-plasma 2-jam < 140 mg/dL;
+3. Sel lemak Sel lemak yang resisten terhadap efek antilipolisis dari insulin, menyebabkan peningkatan proses lipolisis dan kadar asam lemak bebas (free fatty acid/FFA) dalam plasma. Peningkatan FFA akan merangsang proses glukoneogenesis, dan mencetuskan resistensi insulin di hepar dan otot, sehingga mengganggu sekresi insulin. Gangguan yang disebabkan oleh FFA ini disebut sebagai lipotoksisitas. Obat yang bekerja dijalur ini adalah tiazolidinedion.  4. Otot Pada pasien DM tipe 2 didapatkan gangguan kinerja insulin yang multipel di intramioselular, yang diakibatkan oleh gangguan fosforilasi tirosin, sehingga terjadi gangguan transport glukosa dalam sel otot, penurunan sintesis glikogen, dan penurunan oksidasi glukosa. Obat yang bekerja di jalur ini adalah metformin dan tiazolidinedion.  5

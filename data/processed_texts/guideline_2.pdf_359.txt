@@ -1,54 +1,13 @@
--125- 
- 
-Tabel 27. Pedoman Pengobatan Nyeri Neuropatik pada DM 
-Lini 
-pengobatan 
-EFNS (2010) AAN (2011) NICE (2013) AACE (2015) ADA (2017) 
-Lini 
-pertama 
-Amitriptilin 
-Duloxetine 
-Pregabalin 
-Venlafexine 
-Sodium 
-valproate 
-Gabapentin 
-Pregabalin Amitriptilin 
-Duloxetine 
-Pregabalin 
-Gabapentin 
- 
-Amitriptilin 
-SNRI 
-Pregabalin 
-Gabapentin 
-Clonidine 
-Duloxetine 
-Pregabalin 
-Lini kedua Tramadol 
-Opioid 
-Amitriptilin 
-Duloxetine 
-Sodium 
-valproate 
-Venlafexine 
-Gabapentin 
-Tramadol 
-Opioids 
-capsaicin 
- Tramadol 
-Tapentadol 
-Topiramate 
-Oxcabarzapine 
-Lidocaine 5% 
-Capsaicin 
-TCA 
-Gabapentin 
- 
-Lini ketiga   Capsaicin 
-Tramadol 
-  
-*AACE= American Association of Clinical Endocrinologist, AAN= American 
-Academy of Neurology, ADA= American Diabetes Association, EFNS= 
-European Federation of Neurology Societies, NICE= National Institute of 
-Clinical Excelence
+merupakan pilihan utama dalam kontrol glikemik. Pada pasien yang dirawat di ICU, pemberian insulin intravena  umumnya lebih menjadi 
+pilihan. Pada pasien dengan kad ar glukosa darah yang stabil maka dapat 
+dilanjutkan dengan  pemberian  insulin subkutan . Perlu diperhatikan risiko 
+hiperglikemia pada transisi terapi insulin intravena ke subkutan.  
+Pemberian insulin secara sliding scale sangat tidak disarankan. Pemberian 
+insulin subkutan berupa insulin basal, prandial, dan koreksi lebih 
+direkomendasikan  karena lebih fisiologis.  
+Rekomendasi Pengelolaan Hiperglikemia di Unit Rawat Intensif:  
+Langkah 1: Lakukan pengkajian terhadap risiko terjadinya hiperglikemia  
+1. Identifikasi fakt or-faktor yang dapat meningkatkan glukosa darah :  
+a. Riwayat diabetes melitus  
+b. Nutrisi parental total/parsial  
+c. Obat -obatan: kortikosteroid, atipikal antipsikotik (misalnya

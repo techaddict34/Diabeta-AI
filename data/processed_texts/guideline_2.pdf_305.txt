@@ -1,19 +1,12 @@
--107- 
- 
-2. Acarbose 
-Acarbose menghambat kerja enzim alfa -glukosidase yang memecah 
-karbohidrat menjadi glukosa di usus, sehingga memperlambat 
-penyerapan glukosa dan memodifikasi sekresi insulin. Risiko 
-hipoglikemianya rendah sehingga tidak diperlukan penyesuaian dosis 
-selama puasa. 
-3. Tiazolidinedion  
-Mekanisme kerjanya mengaktifkan reseptor proliferator peroksisom 
-gamma yang terdapat di sel lemak, otot dan hati sehingga dapat 
-meningkatkan sensitivitas reseptor insulin tanpa meningkatkan 
-sekresi insulin. Hal inilah menyebabkan risiko hipoglikemia yang 
-rendah, sehingga tidak perlu perubahan dosis dan obat dapat 
-diminum saat berbuka ataupun sahur. 
-4. Sulfonilurea 
-Sulfonilurea bekerja dengan cara meningkatkan sekresi insulin di sel 
-β pankreas yang tidak tergantung pada glukosa (glucose independent) 
-sehingga mengakibatkan kejadian hipoglikemia yang lebih tinggi
+glukagon (GLP -1). Pemberian inhibitor DPP -4 secara efektif dapat 
+meningkatkan kadar GLP- 1 di dalam sirkulasi, sehingga merangsang 
+insulin, namun tergantung pada glukosa ( glucose dependent ). 
+Golongan obat ini, seperti sitagliptin, vildagliptin, saxagliptin, alogliptin dan linagliptin, yang diberikan secara oral sekali atau dua 
+kali sehari, merupakan salah satu obat antidiabetik dengan toleransi 
+yang baik pada pasien yang berpuasa dan risiko hipoglikemia yang rendah. Obat -obatan ini tidak memerlukan perubahan dosis ataupun 
+cara pemberian selama bulan Ramadan.  
+7. Agonis  reseptor glukagon peptida -1 (GLP -1)  
+Obat agonis reseptor GLP -1 meniru kerja hormon inkretin, GLP -1 
+endogen, yaitu meningkatkan sekresi insulin sehingga dapat 
+menurunkan glukosa dalam darah, yang bergantung pada glukosa 
+(glucose dependent ). Agonis reseptor GLP -1 juga mengurangi sekresi

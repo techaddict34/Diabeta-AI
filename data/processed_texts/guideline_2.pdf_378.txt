@@ -1,16 +1,13 @@
-300-
-329 3 300-329 6 300-329 10 300-329 20 
-330-
-359 4 330-359 7 330-359 12 330-359 24 
->360 4 >360 8 >360 14 >360 28 
-Penyesuaian algoritme untuk mencapai target setiap 6 jam  
-Protokol Insulin Infus Northwestern untuk pasien dewasa di ICU 
-1. Mulai infus insulin jika GD >110 mg/dL 
-2. Titrasi infus insulin berdasarkan nilai glukosa darah dan perubahan 
-kecepatan infus insulin berdasarkan tabel 27 atau tabel 29. 
-Misalkan glukosa darah sebelumnya 100 mg/dL, dan glukosa saat 
-ini adalah 170 mg/dL. Karena kenaikan glukosa darahnya adalah 70 
-mg/dl, maka ikuti perintah pada kolom ke-2 sebelah kanan (“peningkatan 
-lebih dari 60 mg/dl”), sehingga kecepatan infus insulin dinaikkan 0,5 
-unit/jam dan bolus 2 unit. Pemeriksaan glukosa darah berikutnya 1 jam 
-kemudian, dan titrasi kembali.
+-133- 
+ 1. Ketoasidosis dan status hiperglikemia  hiperosmolar  
+Status hiperglikemia hiperosmolar (SHH) dan k etoasidosis diabetik 
+(KAD) dan merupakan komplikasi metabolik akut paling serius pada 
+pasien DM. Status hiperglikemia hiperosmolar terjadi pada keadaan  
+defisiensi insulin yang r elatif terhadap kebutuhan insulin sehingga 
+menyebabkan kondisi hiperglikemia dan hiperosmolaritas.  Diagnosis 
+SHH ditegakkan bila terdapat peningkatan glukosa darah yang sangat tinggi (600 -1200 mg/dL ) tanpa tanda dan gejala asidosis, osmolaritas 
+plasma sang at meningkat (330 -380 mOs/m L), benda keton di dalam 
+plasma bisa positif atau negatif, anion gap normal atau sedikit 
+meningkat.  Keadaan KAD terjadi bila terdapat kekurangan insulin 
+yang berat, sehingga tidak saja menimbulkan hiperglikemia dan 
+dehidrasi yang  berat tapi juga mengakibatkan produksi keton

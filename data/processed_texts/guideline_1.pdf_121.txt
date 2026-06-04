@@ -1,16 +1,1 @@
- Penatalaksanaan hipoglikemia dapat dilihat dalam bagian komplikasi akut 
-DM. 
- Efek samping yang lain berupa reaksi alergi terhadap insulin 
- 
-Dasar pemikiran terapi insulin: 
-  
- Sekresi insulin fisiologis terdiri dari sekresi basal dan sekresi prandial. Terapi 
-insulin diupayakan mampu menyerupai pola sekresi insulin yang fisiologis. 
- Defisiensi insulin mungkin berupa defisiensi insulin basal, insulin prandial atau 
-keduanya. Defisiensi  insulin basal menyebabkan timbulnya hiperglikemia pada 
-keadaan puasa, sedangkan defisiensi insulin prandial akan menimbulkan 
-hiperglikemia setelah makan. 
- Terapi insulin untuk substitusi ditujukan untuk melakukan koreksi terhadap 
-defisiensi yang terjadi. 
- Sasaran pertama terapi hiperglikemia adalah mengendalikan glukosa darah basal 
-(puasa/sebelum makan). Hal ini dapat dicapai dengan terapi oral maupun insulin.
+. Jumlah kebutuhan tersebut ditambah atau dikurangi bergantung pada beberapa faktor yaitu: jenis kelamin, umur, aktivitas, berat badan, dan lain-lain. Beberapa cara perhitungan berat badan ideal adalah sebagai berikut:    Perhitungan berat badan ideal (BBI) menggunakan rumus Broca yang dimodifikasi:  o Berat badan ideal =  90% x (TB dalam cm - 100) x 1 kg  o Bagi pria dengan tinggi badan di bawah 160 cm dan wanita di bawah 150 cm, rumus dimodifikasi menjadi: Berat badan ideal (BBI) = (TB dalam cm ʹ 100) x 1 kg  BB normal   : BB ideal ± 10 %  Kurus          : kurang dari BB ideal ʹ 10%   Gemuk        : lebih dari BB ideal + 10%  Perhitungan berat badan ideal menurut Indeks Massa Tubuh (IMT)

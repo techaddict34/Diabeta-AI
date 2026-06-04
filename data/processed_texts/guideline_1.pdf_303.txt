@@ -1,16 +1,1 @@
-4. Sepsis  
-Respon imun mengalami perubahan dan kerentanan terhadap infeksi yang 
-meningkat pada pasien DM. Orang dengan DM memiliki kemungkinan lebih tinggi 
-untuk terkena infeksi, tetapi masih belum jelas jika prognosis mereka lebih buruk  
-dari non-diabetik. 
-Langkah-langkah kontrol glukosa darah pada pasien sepsis: 
-x Stabilisasi 
-x Pasien dengan sepsis berat dan hiperglikemia dirawat ICU dan diberikan 
-terapi insulin intravena. Pemberian terapi insulin pada pasien sepsis 
-direkomendasikan setelah hasil pemantauan glukosa serum >  180 mg/dL 
-sebanyak dua kali pemeriksaan berturut -turut, dengan target 
-mempertahankan kadar glukosa di bawah 180 mg/dL. 
-x Pasien yang menerima insulin intravena juga menerima sumber glukosa  
-kalori 
-x Memantau nilai glukosa darah setiap 1 ʹ 2 jam sampai kadar nilai glukosa 
-dan infus insulin stabil, dan dimonitor setiap 4 jam setelah itu.
+. x Penyuluhan (education control):  Penyuluhan yang baik. Seluruh pasien dengan diabetes perlu diberikan edukasi mengenai perawatan kaki secara mandiri.  IV.3   Diabetes dengan Osteomielitis  1. Osteomielitis adalah infeksi pada jaringan tulang. Pada kaki diabetik biasanya terjadi akibat penyebaran infeksi dari luka.  2. Gejala klinis akut biasanya disertai demam dan ditemukan adanya luka. Pada yang kronik, biasanya port d͛entree tidak jelas.  3. Pada pemeriksaan fisik dapat ditemukan pembengkakan jaringan lunak. Pada jari biasanya ditemukan gambaran khusus seperti jari sosis (sausage toe). Jika

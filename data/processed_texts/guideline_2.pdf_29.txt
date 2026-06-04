@@ -1,20 +1,15 @@
--12- 
+-13- 
+ mencerminkan kegagalan kompensasi sel beta pankreas pada 
+keadaan resistensi insulin. Pemeriksaan yang dilakukan untuk 
+mendiagnosis prediabetes adalah glukosa darah puasa dan glukosa 
+darah 2 jam setelah TTGO. Kriteria untuk diagnosis prediabetes adalah bila glukosa darah puasa 100 -125 mg/dL, atau glukosa darah 
+2 jam setelah TTGO 140 -200 mg/dL, atau HbA1c 5,7- 6,4%.
  
-usia.  
-3. Diagnosis 
-Diagnosis DM ditegakkan atas dasar pemeriksaan kadar glukosa 
-darah. Pemeriks aan glukosa darah yang dianjurkan adalah 
-pemeriksaan glukosa secara enzimatik dengan bahan darah plasma 
-vena. Pemantauan hasil pengobatan dapat dilakukan dengan 
-menggunakan pemeriksaan glukosa darah kapiler dengan glukometer. 
-Diagnosis tidak dapat ditegakkan atas dasar adanya glukosuria. 
-Berbagai keluhan dapat ditemukan pada pasien DM. Kecurigaan 
-adanya DM perlu dipikirkan apabila terdapat keluhan klasik, seperti  
-poliuria, polidipsia, polifagia dan penurunan berat badan yang tidak 
-dapat dijelaskan sebabnya. Keluhan lain yang menyertai adalah badan 
-lemah, kesemutan, gatal, mata kabur, dan disfungsi ereksi pada pria, 
-serta pruritus vulva pada wanita. 
-Tabel 4. Kriteria diagnosis DM 
-Pemeriksaan glukosa plasma puasa ≥  126 mg/dl.  
-(derajat 
-rekomendasi B)
+Prediabe tes dapat dibedakan menjadi glukosa puasa terganggu (GPT), 
+toleransi glukosa terganggu (TGT) dan campuran keduanya. Glukosa 
+puasa terganggu (GPT)  bila hasil pemeriksaan glukosa puasa antara 
+100-125 mg/dL  dan pemeriksaan TTGO glukosa 2 jam < 140  mg/d L. 
+Toleransi glukosa terganggu (TGT)  bila h asil pemeriksaan glukosa 2 
+jam setelah TTGO antara 140 -199 mg/d L.  
+Tabel 5. Cara pelaksanaan TTGO  
+1 Tiga hari sebelum pemeriksaan, pasien tetap makan (dengan

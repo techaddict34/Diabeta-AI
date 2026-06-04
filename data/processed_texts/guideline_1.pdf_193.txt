@@ -1,12 +1,1 @@
-triad: 
-o Terdapat gejala-gejala hipoglikemia 
-o Kadar glukosa darah yang rendah 
-o Gejala berkurang dengan pengobatan. 
- 
-Sebagian pasien dengan DM dapat menunjukkan tanda dan gejala glukosa 
-darah rendah tetapi pemeriksaan kadar glukosa darah normal. Di lain pihak, 
-tidak semua pasien DM mengalami tanda dan gejala hipoglikemia meskipun 
-pada pemeriksaan kadar glukosa darahnya rendah. Penurunan kesadaran 
-yang terjadi pada pasien DM harus selalu dipikirkan kemungkinan 
-disebabkan oleh hipoglikemia. Hipoglikemia paling sering disebabkan oleh 
-penggunaan sulfonilurea dan insulin. Hipoglikemia akibat sulfonilurea dapat
+Keterangan Bagan :  OHO : obat hipoglikemik oral; GLP-1 RA (Glucagon Like Peptide-1 Receptor Agonist); GD: glukosa darah; GDP : glukosa darah puasa; GD 1-2 PP: glukosa darah 1-2 jam post-prandial; OD : 1 kali sehari; BD: 2 kali sehari; TID : 3 kali sehari *Gejala dekompensasi metabolik seperti bukti katabolisme (penurunan berat badan yang signifikan tanpa terprogram, ketosis, hipertrigliserida) atau gejala hiperglikemia berat (poliuria atau polipdipsia memberat)

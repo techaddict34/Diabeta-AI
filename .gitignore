@@ -5,3 +5,5 @@ env/
 .env
 .DS_Store
 .vscode/
+data/processed_texts/
+vector_db/

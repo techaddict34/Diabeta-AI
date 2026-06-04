@@ -1,14 +1,11 @@
-tingkat pendidikan pasien dan  keluarganya. Alat bantu audio 
-visual dapat digunakan untuk membantu kelancaran proses 
-edukasi. 
-b. Tata laksana gizi klinis 
-Tata laksana gizi yang tepat pada pasien diabetes dengan 
-menerapkan pola makan sehat direkomendasikan sebagai bagian 
-terintegrasi dalam pencegahan dan penanganan DM tipe 2. 
-Tantangan utama pada pemberian perencanaan makan bagi 
-pasien diabetes adalah meneta pkan jenis makanan yang dapat 
-dikonsumsi agar mendukung tercapainya kontrol glikemik,  
-kolesterol, berat badan, dan tekanan darah, serta mencegah 
-berbagai komplikasi DM. 
-Perencanaan pola makan bersifat individual karena tidak ad a 
-pola makan dengan jumlah dan jenis pilihan makanan yang sama
+kecerdasan, keinginan atau kemampuan untuk merubah pola 
+makan yang lama, termasuk kondisi emosional khususnya pada 
+pasien yang baru didiagnosis DM.  
+Tata laksana gizi klinis terkini sejalan dengan berkembangnya ilmu pengetahuan khususnya di bidang nutrigenomik, metabolomik dan mikrobiota usus, berupaya memberikan terapi gizi yang lebih tepat atau presisi untuk pasien diabetes . Asupan 
+nutrisi dapat dirancang dengan bantuan teknologi aplikasi untuk membantu menganalisis berba gai data pasien, hingga 
+selanjutnya diperoleh rekomendasi pola makan yang tepat . Data 
+yang diolah meliputi data dasar pasien dan dikombinasi dengan 
+data nutr igenomik (varian genetik, response metabolisme 
+terhadap suatu zat gizi, dan variasi response  individu terhadap 
+suatu intervensi diet), disertai data metabolomik  (data metabolik 
+yang dapat melukiskan gambaran pola diet jangka panjang

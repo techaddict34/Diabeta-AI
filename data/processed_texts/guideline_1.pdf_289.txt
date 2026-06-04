@@ -1,17 +1,1 @@
-PEDOMAN PENGELOLAAN DAN PENCEGAHAN DIABETES MELITUS TIPE 2 
-DEWASA DI INDONESIA - 2021 PERKENI 
- 
-84 
-Perkumpulan Endokrinologi Indonesia 
- 
-mengubah interaksi protein pada insulin cascade, meningkatkan lipolisis, 
-meningkatkan hepatic glucose uptake, dan mengganggu ekspresi GLUT-2 dan 
-GLUT-4, serta pendistribusian insulin subselular. 
- Manajemen pasien DM yang diobati dengan glukokortikoid umumnya sama 
-dengan pengobatan dengan DM pada umumnya , tetapi perlu dipikirkan 
-kemungkinan terjadinya perubahan kadar glukosa darah yang dipengaruhi 
-oleh pemberian kortikosteroid.  
- Insulin  direkomendasikan sebagai obat pilihan utama untuk pengobatan 
-glucocorticoid-induced hyperglycemia  (terlebih pada fase akut) . Pemberian 
-insulin dapat dilakuka n dengan metode insulin basal ditambah insulin 
-prandial subkutan yaitu regimen basal bolus atau basal plus koreksi.
+. Risiko diabetes dapat meningkat akibat penggunaan obat ARV golongan protease inhibitor (PI) dan nukleosida reverse transcriptase inhibitor (NRTI).   Kejadian DM baru diperkirakan terjadi pada lebih dari 5% pasien HIV yang meggunakan golongan protease inhibitor, sedangkan angka kejadian prediabetes relatif lebih tinggi yaitu lebih dari 15%. Obat golongan PI ini diduga dapat meningkatkan resistensi insulin akibat tingginya kadar sitokin antiinflamasi dan menyebabkan apoptosis sel-sel beta pankreas. Obat ARV golongan NRTI juga memengaruhi distribusi lemak tubuh, baik berupa lipohipertrofi maupun lipoatrofi, yang berkaitan dengan resistensi insulin. Pasien HIV yang mengalami hiperglikemia akibat pemberian terapi ARV, perlu dipertimbangkan untuk mengganti dengan obat ARV golongan lain yang lebih aman dengan memperhatikan kondisi penyakitnya

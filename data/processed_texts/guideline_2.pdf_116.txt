@@ -1,24 +1,18 @@
--43- 
- 
-pembuatannya berbeda dengan originatornya.  
- 
-Berdasarkan lama kerja, insulin terbagi menjadi 9 jenis, 
-yakni:  
-(1) Insulin kerja pendek (short acting insulin) 
-(2) Insulin kerja cepat (rapid acting insulin) 
-(3) Insulin kerja sangat cepat (ultra-fast acting insulin) 
-(4) Insulin kerja menengah ( intermediate acting 
-insulin) 
-(5) Insulin kerja panjang (long acting insulin) 
-(6) Insulin kerja ultra panjang ( ultra-long acting 
-insulin) 
-(7) Insulin campuran tetap, kerja pendek dan 
-menengah (mixtard) 
-(8) Insulin campuran tetap, kerja cepat dan menengah 
-(premixed insulin) 
-(9) Insulin campuran tetap, kerja cepat dan ultra 
-panjang (co-formulation insulin) 
-Efek samping utama terapi insulin adalah terjadinya 
-hipoglikemia (penatalaksanaan hipoglikemia dapat 
-dilihat dalam bagian komplikasi akut DM) dan reaksi 
-imunologi terhadap insulin atau resistensi insulin.
+darah basal adalah insulin basal, yaitu insulin 
+kerja menengah, kerja panjang atau ultra panjang; 
+atau insulin campuran tetap ( mixtard insulin , 
+premixed insulin dan co-formulation insulin ).   
+Mekanisme penurunan kadar glukosa darah oleh 
+insulin basal adalah melalui stimulasi uptake  
+glukosa di perifer, terutama di sel otot dan sel 
+lemak dan menghambat produksi glukosa di hati . 
+Insulin basal untuk pasien rawat jalan dimulai 
+dengan dosis 10 unit/h ari atau 0,2 unit/kgBB, 
+dan penyesuaian dosis dapat dilakukan dengan 
+menambah atau mengurangi 2 -4 unit setiap 3 -5 
+hari bila sasaran terapi glukosa darah puasa 
+belum tercapai. Obat antihiperglikemia oral tetap 
+dilanjutkan meskipun pasien sudah menggunakan 
+insulin basal. Pada keadaan glukosa darah basal 
+sudah mencapai kurang dari 130 mg/dL tetapi 
+glukosa darah prandial masih lebih dari 180

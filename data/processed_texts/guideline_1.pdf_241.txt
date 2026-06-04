@@ -1,23 +1,7 @@
-ditentukan tanpa pemeriksaan penunjang, yaitu berdasarkan manifestasi klinis, 
-yakni 
- 
-Tabel 18. Derajat Infeksi pada Kaki Diabetes 
-Derajat Infeksi Gambaran Klinis 
-Derajat 1 (tidak terinfeksi) Tidak ada kelainan 
-Derajat 2 (ringan) Lesi superfisial, dengan minimal 2 dari kriteria berikut: 
-x Teraba hangat di sekitar luka 
-x Eritema > 0,5-2cm 
-x Nyeri lokal 
-x Indurasi/bengkak lokal 
-x Sekret purulen 
-Penyebab inflamasi lain harus disingkirkan 
-Derajat 3 (sedang) Eritema > 2 cm serta satu dari temuan: 
-x Infeksi yang menyerang jaringan di bawah 
-kulit/jaringan subkutan 
-Tidak ada respons inflamasi sistemik 
-Derajat 4 (berat) Minimal 2 dari tanda respons sistemik : 
-x Temperatur > 39o C atau < 36o C 
-x Frekuensi nafas > 90 x/menit 
-x PaCO2 < 32 mmHg 
-x Leukosit > 12.000 atau < 4.000 U/L 
-x Limfosit imatur > 10%
+parestesia, palpitasi, 
+tremulousness   Pucat, takikardia, widened pulse 
+pressure  Neuroglikopenik  Lemah, lesu, dizziness , 
+confusion , pusing, perubahan 
+sikap, gangguan kognitif, 
+pandangan kabur, diplopia  Cortical -blindness , hipotermia, 
+kejang, koma   Hipoglikemia dapat diklasifikasikan ke dalam beberapa bagian terkait dengan derajat keparahannya, yaitu : o Hipoglikemia ringan : pasien tidak membutuhkan bantuan orang lain untuk pemberian glukosa per-oral. o Hipoglikemia berat: Pasien membutuhkan bantuan orang lain untuk pemberian glukosa intravena, glukagon, atau resusitasi lainnya.  Tabel 15. Klasifikasi Hipoglikemia menurut ADA 2020  Klasifikasi Hipoglikemia  Level 1  GlƵkoƐa ƐerƵm фϳϬ mgͬdL dan ш  54 mg/dL  Level 2  Glukosa serum <54 mg/dL  Level 3  Kondisi berat yang ditandai dengan perubahan fungsi mental dan/atau

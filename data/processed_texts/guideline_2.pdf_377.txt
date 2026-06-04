@@ -1,34 +1,25 @@
--131- 
- 
-b. Turun ke algoritme sebelumnya bila nilai glukosa <70 mg/dL 
-sebanyak 2 kali atau penurunan glukosa >60 mg/dL dalam  1 
-jam. 
-Tabel 28. Protokol Insulin Infus Modifikasi Texas 
-Algoritme 1 Algoritme 2 Algoritme 3 Algoritme 4 
-GD Unit/j
-am GD Unit/j
-am GD Unit/j
-am GD Unit/ja
-m 
-Jika GD <70 mg/dL = hipoglikemia, lihat protokol hipoglikemia  
-<100 Off <100 Off <100 Off <100 Off 
-100-
-119 0,2 100-119 0,5 100-119 1 100-119 1,5 
-120-
-149 0,5 120-149 1 120-149 2 120-149 3 
-150-
-179 1 150-179 1,5 150-179 3 150-179 5 
-180-
-209 1,5 180-209 2 180-209 4 180-209 7 
-210-
-239 2 210-239 3 210-239 5 210-239 9 
-240-
-269 2 240-269 4 240-269 6 240-269 12 
-270-
-299 3 270-299 5 270-299 8 270-299 16 
-300-
-329 3 300-329 6 300-329 10 300-329 20 
-330-
-359 4 330-359 7 330-359 12 330-359 24 
->360 4 >360 8 >360 14 >360 28 
-Penyesuaian algoritme untuk mencapai target setiap 6 jam
+50% dari dosis 
+sebelumnya  
+111-180 infus insulin 
+tambah 0,3 
+unit/jam  Stop bolus  Infus insulin dikurangi 
+30% dari dosis 
+sebelumnya  
+181-240 infus insulin 
+tambah 0,5 
+unit/jam  2 unit  Infus tidak berubah, stop 
+bolus  
+241-300 infus insulin 
+tambah 1 unit/jam  3 unit  Infus tidak berubah, stop 
+bolus  
+301-360 infus insulin 
+tambah 1,2 
+unit/jam  4 unit  Infus tidak berubah, stop 
+bolus  
+361-420 infus insulin 
+tambah 1,5 
+unit/jam  5 unit  Infus tidak berubah, stop 
+bolus  
+421-480 infus insulin 
+tambah 2 unit/jam  6 unit  Infus tidak berubah, stop 
+bolus

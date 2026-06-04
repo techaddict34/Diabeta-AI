@@ -1,14 +1,13 @@
-Diabetes Survey tahun 1998, 2003, 2 008 dan 2014, baik pada tingkat 
-pelayanan primer maupun rujukan. Hal yang serupa juga pernah 
-dilakukan oleh International Diabetes Management Practice Stud y.  
-Pembuatan Pedoman Nasional Pelayanan Kedokteran (PNPK) ini dilakukan 
-dengan evaluasi ulang terhad ap berbagai bidang aspek khusus terutama 
-yang menyangkut bukti baru dan obat -obat baru, namun belum 
-seluruhnya dapat dilaksanakan oleh dokter pelayanan primer. 
+Kualitas Bukti  Keterangan  
+A Berdasar pada peringkat  bukti  1 sehingga 
+prosedur/terapi sangat direkomendasikan  
+B Berdasar pada peringkat  bukti  2 sehingga 
+prosedur/terapi direkomendasikan  untuk dilakukan  
+C Berdasar pada peringkat  bukti  3 sehingga 
+prosedur/terapi dapat dilakukan  
+D Berdasar pada peringkat  bukti  4 sehingga 
+prosedur/terapi dapat dipertimbangkan  
  
-B. Penilaian telaah kritis pustaka 
-Setiap bukti yang diperoleh telah dilakukan telaah kritis, serta 
-melibatkan berbagai disiplin ilmu pada kasus tertentu, di antaranya 
-spesialis anak, ortopedi, bedah vaskular, rehabilitas medik, mata, urologi, 
-kardiologi, ginjal, farmasi, patologi klinik, radiologi, gizi klinis, dan lain lain 
-yang terkait sehingga dapat dilakukan pendekatan yang multidisipliner.
+Indonesia sampai saat ini belum menetapkan derajat rekomendasi 
+berdasarkan bukti penelitian sendiri, oleh sebab i tu derajat rekomendasi 
+yang akan digunakan pada pedoman ini mengacu dari ADA  2019.

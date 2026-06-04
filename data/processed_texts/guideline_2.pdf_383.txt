@@ -1,15 +1,15 @@
-meningkat. Keadaan KAD terjadi bila terdapat kekurangan insulin 
-yang berat, sehingga tidak saja menimbulkan hiperglikemia dan 
-dehidrasi yang  berat tapi juga mengakibatkan produksi keton 
-meningkat serta asidosis. Diagnosis KAD ditegakkan bila terdapat 
-peningkatan kadar glukosa darah yang tinggi (300- 600 mg/dL), 
-disertai tanda dan gejala asidosis serta terdapat benda keton di dalam 
-plasma. Osmol aritas plasma meningkat (300 -320 mOs/mL) dan 
-terjadi peningkatan anion gap.   
-Terapi bertujuan untuk mengoreksi kelainan patofisiologi yang 
-mendasari, yaitu gangguan keseimbangan cairan dan elektrolit, kadar 
-glukosa darah, gangguan asam basa, serta mengobati faktor pencetus. 
-Prinsip terapi KAD dan SHH terdiri dari pemberian cairan, terapi 
-insulin, koreksi kalium dan bikarbonat. 
-a. Cairan  
-Pada SHH terdapat kekurangan natrium 5-13 mmol/kgBB sesuai
+yang sebelumnya tidak mendapat insulin berikan dosis subkutan 
+0,6 U/kg  BB/24 jam (50% insulin basal + 50% insulin prandial).
+ 
+Pemberian insulin infus intravena dosis rendah 4 -8 unit/jam 
+menghasilkan kadar insulin sekitar 100 μU/mL dan dapat 
+menekan glu koneogenesis dan lipolisis sebanyak  100%.  
+Pada keadaan di mana tidak memungkinkan atau terdapat 
+kesulitan untuk memantau pemberian insulin intravena, 
+pemberian insulin su bkutan masih dapat dipertimbangkan. 
+Terapi insulin subkutan juga dapat digunakan pada pasien KAD, 
+namun, untuk mencapai kadar insulin puncak dibutuhkan 
+waktu yang lebih tahan lama. Cara itu  dikaitkan  dengan  
+penurunan kadar  glukosa  darah  awal yang lebih  lambat serta 
+timbulnya efek hipoglikemia lambat ( late hypoglycemia ) yang 
+lebih sering dibandingkan dengan terapi menggunakan insulin

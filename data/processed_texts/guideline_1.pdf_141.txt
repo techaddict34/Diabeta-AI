@@ -1,14 +1,1 @@
-dibandingkan kadar glukosa puasa. Hal ini biasanya terjadi pada pasien 
-dengan asupan karbohidrat yang tinggi.  
-x Thiazolidinedione dapat juga dipilih sebagai pilihan pertama, namun 
-harus mempertimbangkan risiko peningkatan berat badan. Pemberian 
-obat ini juga harus diperhatikan pada pasien gagal jantung karena dapat 
-menyebabkan retensi cairan. Obat ini terbatas ketersediaannya, 
-terutama di fasilitas kesehatan tingkat pertama.  
-x Penghambat DPP -4 dapat digunakan sebagai obat pilihan pada lini 
-pertama karena risiko hipoglikemianya yang rendah dan bersifat netral 
-terhadap berat badan. Pemilihan obat ini tetap mempertimbangkan 
-ketersediaan dan harga.  
-x Obat golongan penghambat SGLT -2 merupakan pilihan pada pasien 
-dengan PKVAS (Penyakit Kardiovaskular Aterosklerotik) atau memiliki 
-risiko tinggi untuk mengalami PKVAS, gagal jantung atau penyakit ginjal
+.  Obat golongan ini mempunyai manfaat untuk menurunkan berat badan dan tekanan darah. Efek samping yang dapat terjadi akibat pemberian obat ini adalah infeksi saluran kencing dan genital. Pada pasien DM dengan gangguan fungsi ginjal perlu dilakukan penyesuaian dosis, dan tidak diperkenankan menggunakan obat ini bila LFG kurang dari 45 ml/menit. Hati-hati karena obat ini juga dapat mencetuskan ketoasidosis.

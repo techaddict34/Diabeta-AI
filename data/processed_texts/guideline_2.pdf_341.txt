@@ -1,16 +1,9 @@
-untuk meredakan gejala diabetik neuropati, karena belum  adanya 
-penangan yang menargetkan pada penyakitnya sendiri. Walaupun dengan 
-penanangan glikemik yang ketat, tidak ada bukti yang dapat membuktikan 
-adanya perbaikan gejala nyeri.  
-Neuropati diabetika bisa timbul dalam berbagai bentuk gejala sensorik, 
-motorik dan otonom, harus dibuat daftar terstruktur untuk anamnesa. 
-1. Gejala sensorik  bisa merupakan gejala negatif atau positif dengan 
-distribusi difus atau lokal. 
-a. Gejala sensorik yang negatif  adalah rasa tebal, tak merasa, 
-gangguan berupa sarung tangan/kaus kaki, seperti berjalan 
-diatas tongkat jangkungan dan kehilangan keseimbangan 
-terutama bila mata ditutup dan luka -luka yang tidak merasa 
-sakit. 
-b. Gejala sensorik positif  adalah rasa seperti terbakar, nyeri yang 
-menusuk, rasa seperti kesetrum, rasa  kencang dan hipersensitif 
-terhadap rasa halus.
+5. Electro -diagnosis Studies (EDS).  
+Symptom scoring dan  physical examination scoring  
+Pemeriksaan symptom scoring  dan physical  examination scoring  telah 
+terbukti memiliki sensitivitas dan spesifisitas tinggi untuk mendiagnosis neuropati atau polineuropati diabetik. Penilaian yang dapat digunakan 
+adalah skor Diabetic Neuropathy Symptom (DNS) yang memiliki sensitivitas 
+64,41 % dan spesifisitas 80,95 %; dan skor Diabetic Neuropathy 
+Examination (DNE) dengan sensitivitas 96 % dan spesifisitas 51 %.  Skor 
+DNE lebih sensitif dan sebaliknya skor DNS lebih spesifik, sehingga di 
+dalam praktek klinis dianjurkan menggunakan keduanya.

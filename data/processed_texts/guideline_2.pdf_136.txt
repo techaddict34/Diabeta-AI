@@ -1,7 +1,3 @@
-endogen, dengan waktu paruh sekitar 13 jam sehingga 
-dapat diberikan sekali sehari. Dosis awal umumnya 
-diberikan 16 unit, yang berarti 16 unit degludec dan 
-0,58 mg liraglutide. Dosis maksimal 50 unit, yang 
-berarti 50 unit degludec dan 1,8 mg liraglutide. 
-Pengaturan dosis dilakukan seminggu sekali, 
-disesuaikan dengan kadar glukosa darah sebelum
+unit, yang berarti 60 unit glargine dan 20 mcg lixisenatide. Pengaturan dosis dilakukan sekali 
+seminggu, disesuaikan dengan kadar glukosa darah sebelum sarapan  
+Algoritma intensifikasi terapi injeksi pada DM tipe 2

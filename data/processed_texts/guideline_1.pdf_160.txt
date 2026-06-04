@@ -1,17 +1,1 @@
-PEDOMAN PENGELOLAAN DAN PENCEGAHAN DIABETES MELITUS TIPE 2 
-DEWASA DI INDONESIA - 2021 PERKENI 
- 
-42 
-Perkumpulan Endokrinologi Indonesia 
- 
- Pada kelompok dengan regimen  premixed OD r OHO : jika GDP atau GD 
-pre-prandial pagi tinggi sedangkan GD siang hari normal, perlu dilakukan 
-intensifikasi dengan peningkatan pemberian regimen premixed dari 1 kali 
-sehari menjadi 2 kali sehari, dengan syarat fungsi ginjal baik.  
-Jika belum mencapai target kontrol glikemik ya ng diinginkan maka dapat 
-ditingkatkan menjadi 3 kali dosis pemberian insulin premixed. Jika pada 
-evaluasi berikutnya target belum tercapai, maka premixed diganti dengan 
-basal bolus. 
- Pada kelompok dengan regimen fixed ratio combination : regimen FRC hanya 
-diperbolehkan optimisasi 1 kali dosis/hari. Jika pada evaluasi bulan 
-berikutnya, target kontrol glikemik belum tercapai dengan didapatkan GDP
+. terapi dapat diberikan kombinasi tiga obat anti-hiperglikemia oral. (Gambar 3 tentang algoritma pengelolaan DM tipe 2)   Kombinasi obat antihiperglikemia oral dengan insulin dimulai dengan pemberian insulin basal (insulin kerja menengah atau insulin kerja panjang). Insulin kerja menengah harus diberikan menjelang tidur, sedangkan insulin kerja panjang dapat diberikan sejak sore sampai sebelum tidur, atau diberikan pada pagi hari sesuai dengan kenyamanan pasien. Pendekatan terapi tersebut pada umumnya dapat mencapai kendali glukosa darah yang baik dengan dosis insulin yang cukup kecil. Dosis awal insulin basal untuk kombinasi adalah 0,1 ʹ 0,2 unit/kgbb. kemudian dilakukan evaluasi dengan mengukur kadar glukosa darah puasa keesokan harinya.   Dosis insulin dinaikkan secara perlahan (pada umumnya 2 unit) apabila kadar glukosa darah puasa belum mencapai target

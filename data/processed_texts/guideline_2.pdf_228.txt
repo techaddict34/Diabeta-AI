@@ -1,18 +1,13 @@
--83- 
- 
-serta mengurangi perlengketan jaringan. Modalitas HILT 
-dapat dianggap sebagai pilihan perawatan yang aman untuk 
-pasien dengan ulkus diabetik . Kombinasi HILT dan terapi 
-medis standar secara signifikan meningkatkan luaran 
-terapi, bila dibandingkan dengan sham laser . Terapi HILT 
-merupakan laser kelas IV yang memiliki efek antiinflamasi, 
-analgesik, dan penyembuhan luka yang dapat membantu 
-dalam ma najemen pasien dengan gangguan 
-muskuloskeletal. Selain itu, terapi laser juga memiliki 
-kemampuan untuk meningkatkan sirkulasi darah lokal, 
-permeabilitas pembuluh darah dan metabolisme sel. 
-2) Low-level laser therapy (LLLT) 
-Indikasi aplikasi modalitas LLLT pada komplikasi DM, sama 
-dengan penggunaan HILT antara lain pada ulkus diabetik 
-dan keluhan nyeri neuropati, yang dapat berlanjut terjadi 
-penurunan fungsi tubuh. Modalitas LLLT memiliki intensitas
+regenerasi jaringan, mengurangi nyeri, mengurangi 
+kekakuan jaringan, serta inflamasi sendi. Modalitas IRR 
+adalah jenis radiasi elektromagnetik, yang memiliki panjang 
+gelombang antara 780 nm sampai 1000 mikrometer. 
+Terdapat tiga jenis IRR, yaitu IRR pendek dengan panjang 
+gelombang 0,78 -3,0 mikro meter, IRR sedang dengan 
+panjang gelombang 3 ,0-50,0 mikro meter, dan IRR jauh 
+dengan panjang gelombang 50 ,0-1000, 0 mikrometer, 
+berdasark an standar ISO 20473:20007.  
+b. Stimulasi elektrik  
+1) Electro stimulation  (ES)  
+Indikasi pemberian modalitas elektrostimulasi pada 
+komplikasi DM, yaitu neuropati, miopati, artropati dan

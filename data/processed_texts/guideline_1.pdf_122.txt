@@ -1,12 +1,1 @@
-defisiensi yang terjadi. 
- Sasaran pertama terapi hiperglikemia adalah mengendalikan glukosa darah basal 
-(puasa/sebelum makan). Hal ini dapat dicapai dengan terapi oral maupun insulin. 
-Insulin yang dipergunakan untuk mencapai sasaran glukosa darah basal adalah 
-insulin basal (insulin kerja sedang, panjang atau ultrapanjang)  
- Penyesuaian dosis insulin basal untuk pasien rawat jalan dapat dilakukan dengan 
-menambah 2 - 4 unit setiap 3 - 4 hari bila sasaran terapi belum tercapai. 
- Apabila sasaran glukosa darah basal (puasa) telah tercapai, sedangkan HbA1c 
-belum mencapai target, maka dilakukan pengendalian glukosa darah prandial 
-(meal-related). Insulin yang dipergunakan untuk mencapai sasaran glukosa darah 
-prandial adalah insulin kerja cepat ( rapid acting ) yang disuntikan 5 - 10 menit 
-sebelum makan atau insulin kerja pendek ( short acting ) yang disuntikkan 30
+.  Indeks massa tubuh dapat dihitung dengan rumus : IMT = BB (kg)/TB (m2)  Klasifikasi IMT : o BB kurang < 18,5  o BB normal 18,5 ʹ 22,9  o BB lebih ш 23,0 - Dengan risiko 23,0 ʹ 24,9  - Obese I 25,0 ʹ 29,9  - Obese II ш 30

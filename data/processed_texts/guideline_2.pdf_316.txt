@@ -1,14 +1,16 @@
--110- 
- 
-Tingkat kematian p erioperatif pada pasien diabetes 50% lebih tinggi 
-dibandingkan pada pasien tanpa diabetes. Penyebab dari kondisi ini adalah 
-risiko hipo/hiperglikemia, faktor -faktor komorbid  seperti komplikasi 
-makro- dan mikrovaskular, p emberian obat -obatan yang kompleks 
-termasuk insulin, k esalahan dalam proses peralihan terapi insulin 
-intravena ke subkutan, infeksi perioperatif, perhatian yang kurang dalam 
-pemantauan pasien  diabetes, k elalaian dalam mengidentifikasi pasien  
-diabetes, ketiadaan pedoman institusi terhadap man ajemen diabetes, dan 
-kurangnya pengetahuan manajemen diabetes pada staf tenaga kesehatan. 
-Beberapa faktor yang memengaruhi prognosis pasien diabetes 
-perioperatif adalah  kontrol glukosa darah yang buruk sebelum pasien 
-masuk rumah sakit (HbA1 c >8,5%), p asien tidak memiliki kemampuan
+Pra-operasi:  
+1. Pasien yang belum pernah mendapat insulin dapat diberikan insulin 
+kerja cepat atau kerja singkat secara drip dengan dosis 0,5 -1 U/jam  
+2. Pasien yang sudah mendapat insulin basal sebelumnya, maka 
+lanjutka n lanjutkan dosis insulin basal atau kurangi 25% + insulin 
+koreksional.  
+3. Pasien yang mendapat insulin kombinasi atau insulin premixed , maka 
+maka lanjutkan dosis harian total yang biasa diberikan  
+Intra -operasi:  
+1. Bedah minor dan durasi < 6 jam lanjutkan prose dur pre -operasi  
+2. Prosedur yang lebih kompleks dan lama diberikan drip insulin kerja cepat atau kerja singkat  
+Pasca -operasi  
+1. Setelah kendali glikemik stabil, dari drip insulin kontinyu beralih ke 
+insulin subkutan, biasanya dilakukan 12 hingga 24 jam pasca operasi  
+2. Insulin subkutan  pertama diberikan 2 jam sebelum pemberian drip 
+insulin kontinyu dihentikan.

@@ -1,18 +1,14 @@
--127- 
- 
-Langkah 2: Tentukan target glukosa darah 
-1. Definisi hiperglikemia bila pemeriksaan glukosa darah sewaktu (darah 
-vena) ≥140 mg/dL, dan hipoglikemia bila pemeriksaan glukosa darah 
-sewaktu (darah vena) <70 mg/dL 
-2. Waktu untuk memulai terapi bila glukosa darah persisten diatas 180 
-mg/dL 
-3. Rekomendasi target glukosa darah unit rawat intensif 140-180 mg/dL  
-4. Panduan ini terutama diterapkan apabila pasien akan dirawat di unit 
-rawat intensif setidaknya 3 hari atau lebih 
-5. Untuk pasien yang diperkirakan akan dirawat kurang dari 3 hari, 
-hemodinamik stabil dan asupan oral baik, penanganan glukosa darah 
-diperlakukan sebagaimana penanganan di ruang rawat biasa 
-Langkah 3: Tentukan metode pemberian insulin 
-1. Obat antihiperglikemia oral (OHO) dan insulin subkutan tidak 
-dianjurkan terutama pada hari -hari pertama perawatan unit rawat 
-intensif dimana keadaan belum stabil
+b. setiap 2 -4 jam jika glukosa darah sudah stabil (140- 180 mg/dL) 
+selama 3 kali berturut turut.  
+Langkah 4: Tentukan dan lakukan transisi insulin intravena ke subkutan  
+1. Perubahan insulin intravena ke subkutan dilakukan apabila:  
+a. Hemodinamik stabil ditandai dengan penurunan dosis atau dosis 
+kecil vasopressor  
+b. Asupan nutrisi sudah dimulai dan tidak ada rencana pasien 
+dipuasakan  
+c. Edema perifer sudah berkurang  
+2. Penentuan dosis transisi dari intravena ke subkutan digunakan 80-
+100% kebutuhan insulin intravena yang membuat glukosa darah mencapai targ et, lalu dibagi dua yaitu 50% insulin basal dan 50% 
+insulin prandial  
+3. Transisi ke subkutan dapat dilakukan dengan berbagai cara:  
+a. Basal dalam bentuk infus insulin intravena (sebagai pengganti insulin basal subkutan) ditambah dengan prandial insulin subkutan

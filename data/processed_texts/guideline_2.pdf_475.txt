@@ -1,8 +1,16 @@
-ketotik setelah diberikan tindakan awal
-4. Setelah 3 bulan pengobatan dengan OAD tunggal maupun kombinasi
-terdapat GDP > 80 mg/dL, GDPP > 140mg/dL atau HbA1c > 6.5 %
-5. Setelah mendapat pengobatan selama 3 bulan dengan OAD tunggal belum
-mencapai target
-6. Setelah mendapat pengobatan selama 3 bulan dengan OAD kombinasi
-belum mencapai target
-7. Komplikasi kronis akibat diabetes seperti retinopati, nefropati,
+4. Komplikasi kronis akibat diabetes terkendali selama 3 bulan  
+5. Diabetes gestational atau kehamilan de ngan DM sudah terkontrol selama 
+3 bulan  
+6. Hipoglikemia yang telah teratasi  
+7. Infeksi kaki seperti ulkus atau selulitis yang sudah teratasi dan gula darah telah terkontrol  
+8. Komplikasi neuropati diabetes dalam 3 bulan  
+Indikasi rujuk balik dari PPK III ke PPK II untuk mendapatkan pelayanan 
+kesehatan spesialis penyakit dalam atau melanjutkan saran dari pemberi 
+pelayanan kesehatan perujuk, apabila terdapat salah satu dari hal -hal sebagai 
+berikut:  
+1. Setelah 3 bulan terdapat GDP < 80 mg/dL, GDPP < 140mg/dL atau HbA1c 
+< 6.5 %  
+2. Setelah mendapat pengobatan selama 3 bulan dengan OAD tunggal sudah mencapai target  
+3. Setelah mendapat pengobatan selama 3 bulan dengan OAD kombinasi 
+sudah mencapai target  
+4. Komplikasi kronis akibat diabetes telah terkendali

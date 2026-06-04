@@ -1,19 +1,24 @@
--120- 
- 
-Skor diabetic neuropathy examination (DNE) 
- Sistem skoring DNE yang sensitif dan telah divalidasi dalam bahasa 
-Indonesia ini dapat dilakukan secara cepat dan mudah di praktek klinik. 
-Penilaian ini terdiri dari: 
-1. Kekuatan otot:pada otot quadrisep femoris dengan melakukan 
-ekstensi sendi lutut dan tibialis anterior dengan melakukan 
-dorsofleksi kaki 
-2. Refleks fisiologi: pada otot triseps surae atau tendon achiles. 
-3. Sensibiltas jari telunjuk tangan: menilai sensitivitas terhadap tusukan 
-jarum.  
-4. Sensibilitas ibu jari kaki: menilai sensitivitas terhadap tusukan jarum, 
-sentuhan, persepsi getar dengan garpu tala 128 Hz, dan sensitifitas 
-terhadap posisi sendi. 
-Nilai hasil pemeriksaan: 
-1. Skor 0 : normal. 
-2. Skor 1 : defisit ringan atau sedang (kekuatan otot 3 -4, reflek dan 
-sensorik menurun.
+diandalkan  Subyektif  II, III,IV  Serabut 
+saraf besar 
+dan kecil  
+CCM Cepat, mudah 
+direproduksi, dan 
+tidak invasif.  
+Dapat mendeteksi 
+gangguan atau kerusakan serabut 
+saraf kecil dan dapat 
+menilai progresivitas 
+penyakit.  Harus dilakukan oleh 
+operator 
+berpengalaman  
+ III,IV Serabut 
+saraf kecil  
+Skor diabetic neuropathy symptom (DNS)  
+ Skor DNS terdiri dari 4 poin penilaian untuk gejala. Skor ini 
+memiliki prediksi nilai yang tinggi untuk menyaring polineuropati pada 
+diabetes. Gejala  jalan tidak stabil, nyeri neuropatik, parestesi atau rasa 
+tebal. Satu gejala dinilai 1, maksimum nilai adalah 4. Nilai 1 atau lebih 
+berarti sebagai positif polineuropati diabetika.  
+Pemeriksaan elektrodiagnostik ( electrodiagnostic studies)  
+ Pemeriksaan elektrodiagnostik terdiri dari beberapa jenis 
+pemeriksaan, seperti kecepatan hantar syaraf (KHS) motorik dan sensorik,

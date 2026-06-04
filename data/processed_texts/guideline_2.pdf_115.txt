@@ -1,20 +1,18 @@
-yakni: 
-(1) Insulin manusia 
-Istilah ‘insulin ma nusia’ lebih merupakan 
-penamaan untuk menjelaskan bahwa insulin 
-buatan ini memiliki cara kerja yang serupa dengan 
-insulin yang diproduksi oleh tubuh manusia. Baik 
-insulin manusia maupun analog diproduksi 
-dengan cara memperbanyak protein insulin di 
-dalam bakteri E. coli.  
-(2) Insulin analog 
-Insulin analog merupakan upaya untuk membuat 
-insulin yang lebih menyerupai profil insulin yang 
-fisiologis (normal) di tubuh kita. Insulin analog 
-telah mengalami proses modifikasi genetik 
-sehingga cara dan waktu kerjanya bisa diatur 
-sedemikian rupa 
-(3) Insulin biosimilar 
-Saat ini juga terdapat insulin biosimilar yang 
-dibuat menyerupai produk insulin original, dengan 
-susunan asam amino yang sama namun cara
+-44- 
+ terjamin. Penyuntikan insulin dengan menggunakan 
+pen, perlu penggantian jarum suntik setiap kali dipakai.  
+Kesesuaian konsentrasi insulin dalam kemasan 
+(jumlah unit/mL) dengan semprit yang dipakai (jumlah unit/mL dari semprit) harus diperhatikan, dan 
+dianjurkan memakai konsentrasi yang tetap. Saat ini 
+yang tersedia U -100 artinya 100 unit/m L dan U -300 
+yang berarti 3 00 unit /mL. 
+Penggunaan insulin berdasarkan mekanisme 
+hiperglikemianya:  
+(1) Insulin basal  
+Sasaran pertama terapi hiperglikemia adalah 
+mengendalikan glukosa darah basal (puasa atau 
+sebelum makan). Hal ini dapat dicapai dengan 
+terapi oral maupun insulin. Insulin yang dipergunakan untuk mencapai sasaran glukosa 
+darah basal adalah insulin basal, yaitu insulin 
+kerja menengah, kerja panjang atau ultra panjang; 
+atau insulin campuran tetap ( mixtard insulin ,
