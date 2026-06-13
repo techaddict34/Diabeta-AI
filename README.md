@@ -1,3 +1,9 @@
+---
+title: Diabeta Assistant
+sdk: docker
+app_port: 7860
+---
+
 # Diabeta Assistant (Diabetes RAG Screening)
 
 A **Retrieval-Augmented Generation (RAG)** assistant for Indonesian diabetes guideline Q&A plus a simple, rule-based **pre-diabetes / type 2 diabetes risk screening** calculator.
