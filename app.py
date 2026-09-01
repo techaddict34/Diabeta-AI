@@ -1,11 +1,13 @@
 import os
 from dotenv import load_dotenv
+from notebooks.vectorEmbed import build_vector_db
+from notebooks.loadData import extract_n_chunks
 
 if not os.path.exists("vector_db"):
-    print("--- vector_db not found, building data pipeline ---")
-    os.system("python notebooks/loadData.py")
-    os.system("python notebooks/vectorEmbed.py")
-    print("--- data pipeline complete ---")
+    print("vector_db not found, building data pipeline")
+    extract_n_chunks()  
+    build_vector_db()  
+    print("data pipeline complete")
 
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import FileResponse
