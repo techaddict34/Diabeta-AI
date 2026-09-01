@@ -35,7 +35,7 @@ retriever = database.as_retriever(search_kwargs={"k": 8})
 # do the "nearest neighbor" search (k = 8)
 
 llm = ChatGroq(
-    model="llama-3.3-70b-versatile",
+    model="openai/gpt-oss-120b",
     groq_api_key=groq_api_key,
     temperature=0
 )
