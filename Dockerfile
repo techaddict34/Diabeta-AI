@@ -6,6 +6,8 @@ COPY requirements.txt .
 
 RUN pip install --no-cache-dir -r requirements.txt
 
+RUN python -c "from notebooks.loadData import extract_n_chunks; from notebooks.vectorEmbed import build_vector_db; extract_n_chunks(); build_vector_db()"
+
 COPY . .
 
 EXPOSE 8000

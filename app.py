@@ -4,10 +4,7 @@ from notebooks.vectorEmbed import build_vector_db
 from notebooks.loadData import extract_n_chunks
 
 if not os.path.exists("vector_db"):
-    print("vector_db not found, building data pipeline")
-    extract_n_chunks()  
-    build_vector_db()  
-    print("data pipeline complete")
+    raise FileNotFoundError("ERROR: vector_db was not built during the Docker image phase!")
 
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import FileResponse
