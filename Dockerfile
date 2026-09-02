@@ -8,8 +8,9 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-RUN python -c "from notebooks.loadData import extract_n_chunks; from notebooks.vectorEmbed import build_vector_db; extract_n_chunks(); build_vector_db()"
-
+# vector_db is prebuilt locally and committed to the repo, so it just
+# ships with the image instead of being computed in the memory-constrained
+# build container.
 
 EXPOSE 8000
 
